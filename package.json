@@ -1,0 +1,57 @@
+{
+  "name": "georgobermayr-blog",
+  "version": "1.0.0",
+  "description": "Kirby-based blog website of georgobermayr.com",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npm-run-all --parallel watch:*",
+    "watch:javascript": "onchange 'assets/js/**/*.js' -e 'assets/js/**/*.min.js' -- npm run javascript",
+    "watch:styles": "onchange 'assets/scss/**/*.scss' -- npm run styles",
+    "styles:lint": "stylelint assets/scss/**/*.scss --cache --cache-location \".stylelintcache/\"",
+    "styles:scss": "node-sass assets/scss/main.scss assets/css/main.min.css --output-style compressed",
+    "styles:postcss": "postcss assets/css/main.min.css -o assets/css/main.min.css",
+    "styles": "npm-run-all styles:*",
+    "javascript": "npm-run-all javascript:*",
+    "javascript:lint": "eslint --ignore-path .gitignore assets/js/**/*.js",
+    "javascript:build": "browserify assets/js/main.js -d -t [ babelify --presets [ env ] ] -t uglifyify | uglifyjs -c > assets/js/main.min.js",
+    "build": "npm-run-all --parallel styles javascript",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "php -S 127.0.0.1:8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgobermayr/georgobermayr-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgobermayr/georgobermayr-blog/issues"
+  },
+  "homepage": "https://github.com/georgobermayr/georgobermayr-blog#readme",
+  "devDependencies": {
+    "autoprefixer": "^8.0.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "breakpoint-sass": "^2.7.1",
+    "browserify": "^16.0.0",
+    "concat": "^1.0.3",
+    "eslint": "^4.17.0",
+    "jshint-stylish": "^2.2.1",
+    "node-sass": "^4.7.2",
+    "npm-run-all": "^4.1.2",
+    "onchange": "^3.3.0",
+    "postcss-cli": "^5.0.0",
+    "postcss-csso": "^3.0.0",
+    "stylelint": "^8.4.0",
+    "stylelint-no-unsupported-browser-features": "^2.0.0",
+    "stylelint-selector-bem-pattern": "^2.0.0",
+    "uglify-js": "^3.3.10",
+    "uglifyify": "^4.0.5"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 5%",
+    "IE 10"
+  ]
+}
