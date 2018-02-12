@@ -1,0 +1,22 @@
+/*
+ *
+ * main.scss
+ * Puts together all SCSS files
+ *
+ */
+
+@charset "UTF-8";
+
+// Import Third-Party tools
+@import "node_modules/breakpoint-sass/stylesheets/breakpoint";
+
+// Reset CSS
+@import "definitions/reset";
+
+// Load basic defintions
+@import "definitions/breakpoints";
+@import "definitions/colors";
+@import "definitions/fonts";
+@import "definitions/zIndexes";
+@import "definitions/typography";
+@import "definitions/basics";

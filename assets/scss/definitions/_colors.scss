@@ -1,0 +1,19 @@
+/*
+ *
+ * colors.scss
+ * Color definitions
+ *
+ */
+
+$red:       #e20e4e;
+$light-red: #e3acbd;
+
+$green:       #50d3a8;
+$light-green: #aef2dc;
+
+$black: hsl( 0, 0%, 0% );
+$white: hsl( 0, 0%, 100% );
+
+$primary-color: $red;
+$secondary-color: $green;
+$background-color: $light-green;
