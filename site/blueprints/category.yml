@@ -1,13 +1,38 @@
 title: Category
 options:
   preview: true
-  status: false
+  status: true
   template: false
   url: true
   delete: false
 pages: false
 files: false
 fields:
+
   title:
     label: Title
     type:  text
+    required: true
+
+  # Icon
+
+  description:
+    label: Description
+    type: textarea
+    buttons: false
+    required: true
+
+  teaserheadline:
+    label: Headline for teaser
+    type: text
+    required: true
+
+  teasertext:
+    label: Text for teaser
+    type: textarea
+    buttons: false
+    required: true
+
+  # SEO
+  seo:
+    extends: seo

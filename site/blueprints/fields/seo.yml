@@ -1,0 +1,21 @@
+type: group
+fields:
+  infoseo:
+    label: SEO
+    type: headline
+
+  seotitle:
+    label: SEO Title
+    type: text
+    required: true
+    validate:
+      minLength: 10
+      maxLength: 60
+
+  seodescription:
+    label: SEO Description
+    type: textarea
+    buttons: false
+    validate:
+      minLength: 40
+      maxLength: 160

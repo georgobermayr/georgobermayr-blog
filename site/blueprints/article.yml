@@ -8,6 +8,42 @@ options:
 pages: false
 files: true
 fields:
+
   title:
     label: Title
     type:  text
+    required: true
+
+  category:
+    label: Category
+    type: select
+    width: 1/2
+    options: query
+    query:
+      page: /category
+
+  isessential:
+    label: Essential reading
+    text: Is essential
+    type: checkbox
+    width: 1/2
+
+  # Content
+  infocontent:
+    label: Content
+    type: headline
+
+  excerpt:
+    label: Teaser text
+    type: textarea
+    buttons: false
+    required: true
+
+  text:
+    label: Text
+    type: textarea
+    required: true
+
+  # SEO
+  seo:
+    extends: seo
