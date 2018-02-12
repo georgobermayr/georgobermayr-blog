@@ -1,0 +1,14 @@
+title: Categories
+options:
+  preview: true
+  status: false
+  template: false
+  url: true
+  delete: false
+pages: true
+  template: category
+files: false
+fields:
+  title:
+    label: Title
+    type:  text

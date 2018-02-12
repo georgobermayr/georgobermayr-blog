@@ -1,0 +1,13 @@
+title: About page
+options:
+  preview: true
+  status: true
+  template: false
+  url: true
+  delete: false
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
