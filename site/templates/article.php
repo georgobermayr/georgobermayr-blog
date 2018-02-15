@@ -10,6 +10,8 @@
 
 <main>
 
+  <?php snippet('article.content') ?>
+
 </main>
 
 <?php snippet('footer') ?>
