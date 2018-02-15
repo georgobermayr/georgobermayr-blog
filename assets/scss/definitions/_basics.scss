@@ -1,9 +1,9 @@
-/**
-*
-* basic.scss
-* Basic definitions
-*
-*/
+/*
+ *
+ * basic.scss
+ * Basic definitions
+ *
+ */
 
 html {
   font-family: $font-family-serif;
@@ -36,6 +36,7 @@ p {
 
 a {
   text-decoration: none;
+  color: inherit;
 }
 
 b,
@@ -56,4 +57,8 @@ h6 {
   font-family: $font-family-sans;
   font-weight: $font-weight-bold;
   color: $primary-color;
+}
+
+h1 {
+  font-size: $font-size-large;
 }
