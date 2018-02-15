@@ -1,4 +1,4 @@
-<header>
+<div class="menu__wrapper">
 
   <a
     class="header__logo"
@@ -35,4 +35,4 @@
 
   </ul>
 
-</header>
+</div>
