@@ -1,16 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<div class="menu__wrapper">
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <?php snippet('pagetitle') ?>
 
-  <title>
-    <?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?>
-  </title>
+  <?php snippet('menu') ?>
 
-  <?php echo css('assets/css/main.min.css') ?>
-
-</head>
-
-<body class="<?php echo 'body body--' . str_replace('.', '-', $page->template()) ?>">
+</div>

@@ -1,8 +1,8 @@
-<?php snippet('header') ?>
+<?php snippet('metadata') ?>
 
 <header>
 
-  <?php snippet('menu') ?>
+  <?php snippet('header') ?>
 
   <?php snippet('article.header') ?>
 
@@ -18,4 +18,10 @@
 
 </main>
 
-<?php snippet('footer') ?>
+<footer>
+
+  <?php snippet('footer') ?>
+
+</footer>
+
+<?php snippet('end') ?>

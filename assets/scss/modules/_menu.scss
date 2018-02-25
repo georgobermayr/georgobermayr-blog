@@ -1,10 +1,15 @@
-.menu__wrapper {
+.menu__wrapper,
+.footer__wrapper {
   background-color: $secondary-color;
   display: grid;
   grid-template-columns: repeat( 24, 1fr );
 
   padding-top: 1.2rem;
   padding-bottom: 1.2rem;
+}
+
+.footer__wrapper {
+  margin-top: 10rem;
 }
 
 .header__logo {
@@ -18,7 +23,8 @@
   }
 }
 
-.menu {
+.menu,
+.legalmenu {
   grid-column: 6 / 16;
 
   font-family: $font-family-sans;
@@ -45,4 +51,10 @@
 .menuitem--active {
   font-weight: $font-weight-bold;
   text-decoration: underline;
+}
+
+.legalmenu {
+  margin-bottom: 20rem;
+
+  font-size: $font-size-small;
 }
