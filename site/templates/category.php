@@ -1,8 +1,22 @@
-<?php snippet('header') ?>
+<?php snippet('metadata') ?>
 
-<?php snippet('menu') ?>
+<header>
+
+  <?php snippet('header', array('color' => 'red')) ?>
+
+  <?php snippet('category.header') ?>
+
+</header>
+
+<main class="home">
 
 
-<h1><?php echo $page->title() ?></h1>
+</main>
 
-<?php snippet('footer') ?>
+<footer>
+
+  <?php snippet('footer') ?>
+
+</footer>
+
+<?php snippet('end') ?>

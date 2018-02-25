@@ -2,7 +2,7 @@
 
 <header>
 
-  <?php snippet('header') ?>
+  <?php snippet('header', array('color' => '')) ?>
 
   <?php snippet('home.header') ?>
 

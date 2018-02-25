@@ -1,0 +1,61 @@
+.category__header {
+  background-color: $primary-color;
+  display: grid;
+  grid-template-columns: repeat( 24, 1fr );
+
+  padding-top: 3rem;
+  margin-bottom: 11.5rem;
+
+  @include breakpoint($breakpoint-md) {
+    padding-top: 10rem;
+    margin-bottom: 9.5rem;
+  }
+
+  & > .category__information {
+    grid-column: 2 / 20;
+    margin-bottom: -11.5rem;
+
+    @include breakpoint($breakpoint-md) {
+      grid-column: 5 / 14;
+      margin-bottom: -9.5rem;
+    }
+
+    & > h1 {
+      color: $black;
+      font-size: $font-size-large * 0.5;
+
+      @include breakpoint($breakpoint-md) {
+        font-size: $font-size-large;
+        margin-bottom: 2rem;
+      }
+    }
+
+    & > p {
+      font-family: $font-family-sans;
+      font-weight: $font-weight-bold;
+      line-height: 1.2;
+    }
+
+    &::before {
+      display: block;
+      content: "";
+      width: 50%;
+      height: 1rem;
+      background-color: $black;
+      margin-bottom: 1rem;
+    }
+  }
+
+  & > img {
+    grid-column: 20 / 25;
+    width: 100%;
+    margin-top: 2.5rem;
+
+    @include breakpoint($breakpoint-md) {
+      grid-column-start: 15;
+      position: absolute;
+      bottom: 0;
+      max-height: 45rem;
+    }
+  }
+}
