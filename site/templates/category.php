@@ -8,8 +8,11 @@
 
 </header>
 
-<main class="home">
+<main class="category">
 
+  <?php foreach ($page->articles($page->slug()) as $article): ?>
+    <?php snippet('article.teaser', $arrayName = array('article' => $article)) ?>
+  <?php endforeach ?>
 
 </main>
 

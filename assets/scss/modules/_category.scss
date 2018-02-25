@@ -59,3 +59,21 @@
     }
   }
 }
+
+.category {
+  display: grid;
+  grid-template-columns: repeat( 24, 1fr );
+  margin: 10rem 0 5rem;
+
+  @include breakpoint($breakpoint-md) {
+    margin-top: 15rem;
+  }
+
+  & > .article__teaser {
+    grid-column: 2 / 24;
+
+    @include breakpoint($breakpoint-md) {
+      grid-column: 6 / 17;
+    }
+  }
+}
