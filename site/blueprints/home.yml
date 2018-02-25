@@ -1,0 +1,21 @@
+title: Homepage
+options:
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
+pages: false
+files: true
+fields:
+
+  title:
+    label: Title
+    type:  text
+    required: true
+
+  intro:
+    label: Intro text
+    type: textarea
+    required: true
+    buttons: false
