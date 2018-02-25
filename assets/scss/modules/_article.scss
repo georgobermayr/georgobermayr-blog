@@ -6,8 +6,15 @@
   margin-bottom: $font-size-large + 4rem;
 
   & > h1 {
-    grid-column: 6 / 21;
-    margin-bottom: - $font-size-large;
+    grid-column: 2 / 20;
+    margin-bottom: - $font-size-large * 0.5;
+    font-size: $font-size-large * 0.5;
+
+    @include breakpoint($breakpoint-md) {
+      grid-column: 6 / 21;
+      margin-bottom: - $font-size-large;
+      font-size: $font-size-large;
+    }
   }
 
   & > img {
@@ -18,9 +25,9 @@
 }
 
 .article__date {
-  grid-column: 5 / 11;
+  grid-column: 2 / 20;
 
-  margin-top: 19.5rem;
+  margin-top: 9.5rem;
   margin-bottom: 2rem;
 
   border-bottom: 1rem solid $primary-color;
@@ -34,6 +41,12 @@
   font-size: $font-size-small;
   text-align: right;
   text-transform: uppercase;
+
+  @include breakpoint($breakpoint-md) {
+    grid-column: 5 / 11;
+
+    margin-top: 19.5rem;
+  }
 }
 
 main {
@@ -43,10 +56,14 @@ main {
   padding-top: 5rem;
 
   & > p {
-    grid-column: 6 / 19;
+    grid-column: 2 / 24;
 
     line-height: 1.5;
     margin-bottom: $font-size-normal;
+
+    @include breakpoint($breakpoint-md) {
+      grid-column: 6 / 19;
+    }
   }
 
   & > blockquote {
@@ -65,12 +82,16 @@ main {
 
     font-family: $font-family-sans;
     font-weight: $font-weight-bold;
-    font-size: $font-size-medium;
+    font-size: $font-size-medium * 0.75;
+
+    @include breakpoint($breakpoint-md) {
+      font-size: $font-size-medium;
+    }
   }
 }
 
 .article__recommendation {
-  grid-column: 5 / 15;
+  grid-column: 2 / 24;
 
   display: flex;
   flex-direction: column;
@@ -81,6 +102,10 @@ main {
   margin: 5rem 0;
 
   padding: 1rem;
+
+  @include breakpoint($breakpoint-md) {
+    grid-column: 5 / 15;
+  }
 
   & > h3 {
     font-size: $font-size-medium;
@@ -101,16 +126,20 @@ main {
 }
 
 .article__author {
-  grid-column: 15 / 22;
-
-  margin: 5rem 0;
-  padding-left: 1.5rem;
+  grid-column: 2 / 24;
 
   color: $primary-color;
   font-size: $font-size-small;
   line-height: 1.5;
 
   font-family: $font-family-sans;
+
+  @include breakpoint($breakpoint-md) {
+    grid-column: 15 / 22;
+
+    margin: 5rem 0;
+    padding-left: 1.5rem;
+  }
 
   & > h3 {
     font-size: $font-size-normal;
