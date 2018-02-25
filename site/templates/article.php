@@ -12,6 +12,10 @@
 
   <?php snippet('article.content') ?>
 
+  <?php snippet('article.recommendation') ?>
+
+  <?php snippet('article.author') ?>
+
 </main>
 
 <?php snippet('footer') ?>
