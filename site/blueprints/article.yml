@@ -22,11 +22,15 @@ fields:
     query:
       page: /category
 
-  isessential:
+  essential:
     label: Essential reading
     text: Is essential
     type: checkbox
     width: 1/2
+
+  date:
+    label: Published at
+    type: date
 
   # Content
   infocontent:

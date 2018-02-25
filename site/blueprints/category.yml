@@ -6,15 +6,13 @@ options:
   url: true
   delete: false
 pages: false
-files: false
+files: true
 fields:
 
   title:
     label: Title
     type:  text
     required: true
-
-  # Icon
 
   description:
     label: Description

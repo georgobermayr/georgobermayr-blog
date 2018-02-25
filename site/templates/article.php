@@ -8,7 +8,7 @@
 
 </header>
 
-<main>
+<main class="article">
 
   <?php snippet('article.content') ?>
 

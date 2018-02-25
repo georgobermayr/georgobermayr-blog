@@ -1,3 +1,44 @@
+.article {
+  display: grid;
+  grid-template-columns: repeat( 24, 1fr );
+
+  padding-top: 5rem;
+
+  & > p {
+    grid-column: 2 / 24;
+
+    line-height: 1.5;
+    margin-bottom: $font-size-normal;
+
+    @include breakpoint($breakpoint-md) {
+      grid-column: 6 / 19;
+    }
+  }
+
+  & > blockquote {
+    grid-column: 5 / 20;
+
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+
+    border-top: 0.1rem solid $primary-color;
+    border-bottom: 0.1rem solid $primary-color;
+
+    padding-top: 2.4rem;
+    padding-bottom: 2.4rem;
+
+    color: $primary-color;
+
+    font-family: $font-family-sans;
+    font-weight: $font-weight-bold;
+    font-size: $font-size-medium * 0.75;
+
+    @include breakpoint($breakpoint-md) {
+      font-size: $font-size-medium;
+    }
+  }
+}
+
 .article__header {
   background-color: $secondary-color;
   display: grid;
@@ -46,47 +87,6 @@
     grid-column: 5 / 11;
 
     margin-top: 19.5rem;
-  }
-}
-
-main {
-  display: grid;
-  grid-template-columns: repeat( 24, 1fr );
-
-  padding-top: 5rem;
-
-  & > p {
-    grid-column: 2 / 24;
-
-    line-height: 1.5;
-    margin-bottom: $font-size-normal;
-
-    @include breakpoint($breakpoint-md) {
-      grid-column: 6 / 19;
-    }
-  }
-
-  & > blockquote {
-    grid-column: 5 / 20;
-
-    margin-top: 1rem;
-    margin-bottom: 3rem;
-
-    border-top: 0.1rem solid $primary-color;
-    border-bottom: 0.1rem solid $primary-color;
-
-    padding-top: 2.4rem;
-    padding-bottom: 2.4rem;
-
-    color: $primary-color;
-
-    font-family: $font-family-sans;
-    font-weight: $font-weight-bold;
-    font-size: $font-size-medium * 0.75;
-
-    @include breakpoint($breakpoint-md) {
-      font-size: $font-size-medium;
-    }
   }
 }
 
@@ -144,4 +144,54 @@ main {
   & > h3 {
     font-size: $font-size-normal;
   }
+}
+
+.article__teaser {
+  display: block;
+  border-bottom: 0.1rem solid $primary-color;
+
+  & > h4 {
+    padding-top: 3rem;
+    margin-bottom: 1rem;
+
+    & > span {
+      display: block;
+      margin-bottom: 1rem;
+      font-size: 60%;
+      text-transform: uppercase;
+
+      @include breakpoint($breakpoint-md) {
+        font-size: 40%;
+      }
+    }
+
+    @include breakpoint($breakpoint-md) {
+      margin-bottom: 2rem;
+      font-size: $font-size-medium;
+    }
+  }
+
+  & > p {
+    padding-bottom: 3rem;
+
+    & > strong {
+      color: $primary-color;
+    }
+  }
+
+  &:hover {
+
+    & > h4,
+    & > p > strong {
+      text-decoration: underline;
+    }
+  }
+
+  &:first-of-type {
+    margin-top: 5rem;
+  }
+}
+
+.article__teaser--essential {
+  background-color: $background-color;
 }

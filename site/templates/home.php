@@ -8,9 +8,13 @@
 
 </header>
 
-<main>
+<main class="home">
 
+  <?php foreach ($page->categories() as $category): ?>
 
+    <?php snippet('home.category', array('category' => $category)); ?>
+
+  <?php endforeach ?>
 
 </main>
 

@@ -2,7 +2,7 @@ Title: Is lorem ipsum really evil?
 
 ----
 
-Category: 
+Category: publishing-ai
 
 ----
 
@@ -37,3 +37,11 @@ Seotitle: bla a dfasfsad
 ----
 
 Seodescription: bla  bal blabadsfjklsdj flasdf asdfa sfasdf asdf
+
+----
+
+Date: 
+
+----
+
+Essential: 0
