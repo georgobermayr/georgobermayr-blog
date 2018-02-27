@@ -2,7 +2,7 @@ Title: Is lorem ipsum really evil?
 
 ----
 
-Category: publishing-ai
+Category: content-architecture
 
 ----
 
@@ -10,7 +10,7 @@ Isessential: 0
 
 ----
 
-Excerpt: bla bla
+Excerpt: One of the common things people do wrong in prototyping but also in graphic design is the use of dummy text. How would a strategy for text look like that is based on iterative and rapid prototyping?
 
 ----
 
@@ -18,13 +18,13 @@ Text:
 
 One of the common things people do wrong in prototyping but also in graphic design is the use of dummy text. With dummy text, you can picture a world where everything is ideal, a world that is driven entirely by its visual appearance. Does the text make sense here? Does it convey any message? Is there any use for the people that interact with it? The dummy text, and therefore the prototype does not tell. But of what use is a prototype that displays, say an image carousel, with lorem ipsum headlines? Right, nothing. At least the prototype is not much of a help when forming design decisions.
 
-> If everyone in the industry would agree that real text is better than dummy text when developing an experience.
+> Having real text in a prototype is the missing piece that makes it actually valuable.
 
 That’s the reason why using dummy text in prototypes is today considered a bad practice by must UX practitioners. For a good reason, of course—having real text in a prototype is the missing piece that makes it actually valuable. So, if everyone in the industry agrees that real text is better than dummy text when developing an experience, we can finally start a discussion about the development process for … text.
 
 A lot of people would argue that a text is a somehow more finished and polished product than a user interface is. It takes a lot of work and craftsmanship to arrive at a “good” text. But applying that approach to text in prototypes conflicts with the very nature of prototypes itself: Rapid iteration. It is not very viable to polish a text to its perfection and then use it in a quick prototype that is thrown away “by design”. This means that writers need to undergo the same evolution designers already went through: Text must be iterated. Start with a quick sketch, just the rough talking points. Show it to users, learn from their feedback, and iterate with a finer crafted version of the text. Show it again, and iterate again. In that process, as with layout and visual design, a text evolves that is tested and grounded in the user’s needs. That’s truly the most polished version a text can have.
 
-> And with that, some middle ground arrives, where dummy text is not per se bad.
+> And with that, some middle ground arrives, where dummy text is not per se bad. 
 
 And with that, some middle ground arrives, where dummy text is not per se bad. It’s a totally legitimate approach to start with a real, but rough headline and some additional dummy text for the body copy in the first iteration. If the tester can understand what the prototype is saying, everything is fine—even if there is some dummy text in it. In the next iteration, you can replace the dummy text with rough talking points and then move on to full sentences.
 
@@ -32,16 +32,20 @@ Abandoning the waterfall process is not just a big picture decision. It starts w
 
 ----
 
-Seotitle: bla a dfasfsad
+Seotitle: Is dummy text really bad for UX prototypes?
 
 ----
 
-Seodescription: bla  bal blabadsfjklsdj flasdf asdfa sfasdf asdf
+Seodescription: Is dummy text good for UX prototypes? How does a rapid prototyping approach work when writing text? Take a glance at modern agile principles.
 
 ----
 
-Date: 
+Date: 2017-04-27
 
 ----
 
 Essential: 0
+
+----
+
+Tags: ux,prototyping,dummy text,writing,content strategy,user experience,web design,agile,scrum,rapid prototyping,iteration,design

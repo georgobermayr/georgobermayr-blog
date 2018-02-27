@@ -1,0 +1,67 @@
+Title: Building multichannel experiences with the “Content Topic Wheel”
+
+----
+
+Category: content-architecture
+
+----
+
+Tags: content strategy,user experience design,multichannel,ideation,workshop tools,crossmedia marketing,marketing,multichannel marketing,digital marketing,digital adoption
+
+----
+
+Essential: 0
+
+----
+
+Date: 2015-08-24
+
+----
+
+Infocontent: 
+
+----
+
+Excerpt: The Content Topic Wheel provides a framework for developing ideas based on the topics of a Content Strategy and putting them together in a multichannel architecture.
+
+----
+
+Text: 
+
+In marketing, developing a topic across different media channels has become the standard. Starting a topic in a newsletter, linking to Facebook, putting related videos an YouTube, integrating users with surveys or user generated content, linking from print collateral to the web site and so on. In the past years building these multichannel experiences has become a craft on its own, resulting in often complex architectures of linking back and forth and funneling the user flow. The toolsets of Content Strategy and User Experience Design help a lot here in shaping true user centered multichannel experiences.
+
+Despite that I often discovered a common pattern: Really good multichannel strategies often happen by accident, they are merely based around a single – often genius – creative idea. That’s fine of course, but in the long run you can’t rely on having these accidental ideas whenever you need one of them. Especially when your whole marketing strategy depends on a multichannel approach – something that’s going to happen in almost every company when making the switch to a digitally centered way of doing things. Therefore more planned ways to develop multichannel architectures are needed.
+
+I’m a huge advocate of Content Strategy and the tools and methodologies it provides. I also use them often in workshops. For me they are key to every good multichannel strategy. However I often found a gap when moving from the topics discovered in the Content Strategy to the final implementation in the different media channels (or even in just one channel if that’s your goal). It is in that gap where most things rely on the one genius idea – a reliance I wanted to reduce. Attempting that I came across a tool I’d like to call the “Content Topic Wheel”. The wheel fits well in the development of a Content Strategy and is based on the discovered topics. But it can also easily used on its own in day-to-day business.
+
+This is how the wheel works:
+
+- The topic is in the center of the Content Topic wheel In the center of the wheel you put the topic you want to work on. This can be a topic from your pool of the Content Strategy discovery phase or some other topic you currently have on hand and need to develop into a multichannel architecture.
+(image: Content-Topic-Wheel-1.gif alt: The topic is in the center of the Content Topic wheel)
+- Around the topic the wheel is divided into spokes representing possible treatments of the topic. I would recommend if you develop the different spokes on your own, based on your current media stack, tool experience and already established treatment forms. However I can give you this spokes as a starting point, providing you with an IMO good representation of today’s digital capabilities.
+(image: Content-Topic-Wheel-2.gif alt: Spokes of the Content Topic Wheel)
+- You can then work your way around the wheel: Can I make an info graphic from the topic? What’s possible with videos or animations? How can I integrate the user and foster meaningful conversations with them? It won’t be possible to have every topic treated in every available form, but if you have at least some of them you can already put a multichannel architecture together. The spokes provide a framework for your ideation and also give you some feedback on how well-balanced your strategy is: Doing Social Media Marketing without ever having something in the user integration spoke wont be social at all …
+- You can work with the spokes of the wheel on your own, but you can also use this tool in workshops, bringing together the ideas of different departments.
+(image: Content-Topic-Wheel-3.gif alt: Personas and Channels in the Content Topic Wheel)
+- Once you know how you can treat your topic make the next steps towards concrete implementation. Ask for every idea:
+*Which of your personas (or target groups) would like this?* This gives you important feedback on voice and tone of the final implementation as well as if the idea is really worth considering (if the idea is nothing for your personas you shouldn’t do it at all).
+*In which channels can I play the idea?* That’s especially helpful when you juggle with different Social Media channels, each of them having its own rules. You can put a video on YouTube, but also on Facebook and other channels. And how do you integrate it in your website? An info graphic is nice on Pinterest but maybe you also have some print collateral where it could be used? Check off your current channels and add new channels on the road when it makes sense.
+- With all that information you can already start building a very tangible editorial plan. Put the different treatments plus channels on a calendar and assign the responsibilities for the actual content creation.
+
+Voila! You made the move from abstract topics in your strategy to the final multichannel implementation. You also considered the actual user needs as well as diverse ways of playing the topic. You have everything on a calendar and now you can set the whole multichannel plan in motion.
+
+If you are doing Social Media, you should do that process for let’s say three or four topics and mix all of them together in your editorial plan. That way you will end up with a very varied calendar based on the different needs of your users and spanning most of the spokes of the “Content Topic Wheel”.
+
+Of course the wheel is not the only tool to develop a multichannel strategy. Customer journeys for instance are also very nice. But I like how easily approachable the wheel is and how fast you can come up with a mix of varied implementation ideas. I hope you find the wheel helpful too. Which tools do you use for multichannel strategies?
+
+----
+
+Infoseo: 
+
+----
+
+Seotitle: Multichannel experiences with the “Content Topic Wheel”
+
+----
+
+Seodescription: The Content Topic Wheel provides a framework for developing ideas based on a Content Strategy and putting them together in a multichannel architecture.

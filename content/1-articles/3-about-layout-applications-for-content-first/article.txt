@@ -1,0 +1,57 @@
+Title: About layout applications for content first
+
+----
+
+Category: multichannel-technology
+
+----
+
+Tags: html,responsive,content first,content strategy,woodwing,indesign,publishing,media
+
+----
+
+Essential: 0
+
+----
+
+Date: 2016-05-26
+
+----
+
+Infocontent: 
+
+----
+
+Excerpt: An article of my college Haeme Ulrich about HTML authoring tools caught my attention: Haeme proclaims that in a content first world HTML based layout applications are the way to go. Really?
+
+----
+
+Text: 
+
+Today an (link: http://www.publishingblog.ch/haemes-senf-html-authoring-das-was-nach-dem-layoutprogram-kommt/ text: article) of my Swiss college Haeme Ulrich about HTML authoring tools caught my attention: Haeme proclaims that in a content first world HTML based layout applications (like Woodwing Inception or TruAuthor from MEI) are the way to go. While I agree with some of his considerations I don’t agree with the conclusion. I agree with the approach to content first and the major role HTML plays in todays publishing landscape. In fact, content first played a big role in our “Agile Publishing” book and responsive HTML is the main reason why I abandoned all digital publishing solutions (including the ones producing HTML output) in the last years. 
+
+> HTML was never intended to store structured content.
+
+My disagreements begin with the assumption that structured content, the foundation of a content first approach, is best being stored in HTML. That’s not the case—HTML is no vehicle for structured content. HTML was never intended to store structured content, the same as InDesign or Word where never intended to do so. 
+
+Structured content means that you add semantics to your content that is machine-readable and allows for automatic transformations to different output channels. This describes a platform agnostic way that is very sustain in terms of the ongoing evolvement of media channels. HTML is not designed to do that. While some of the tags in HTML have kind of a “semantic touch” they are merely focused on describing the layout. A `<h1>` for instance of course says that this is the most important headline of the page but it doesn’t says anything about which kind of headline it is or in which context it stands. Both things that are crucial for transformations to other channels. A lot of the tags used in HTML, like `<div>` or `<span>` aren’t semantic at all. And of course there are some semantic tags in HTML5 like `<main>`, `<article>` or `<header>`, but there aren’t many of them, and again their main intention is to structure the layout, not so much the content. 
+
+So, what’s the best approach to store structured content? It is, well … structured content. I agree with Haeme on the objections against XML as a user-friendly entry to structured content. But the future of structured content isn’t XML authoring. *It is a smarter approach to content management and an API-driven way of distributing the content. Both things seem way better suited for the digital landscape than the idea of authoring HTML in a print-like layout environment.* In the last years we have seen interesting developments in the content management area, be it the (link: https://pantheon.io/decoupled-cms text: “de-coupled” usage of Drupal,) more agile, database-free systems like (link: https://getkirby.com text: Kirby) or completely “headless” systems like (link: https://www.contentful.com text: Contentful). Even Wordpress can be used (link: http://barooney.com/why-being-a-vegetarian-and-using-indesign-goes-well-together-839/ text: in that way). The principle is the same in each of them: You define a structure for your content and then you provide a nice experience for your editors to enter the content. With that you can simply add an API (programming interface) to the CMS—and voila, your content is free! That’s an entirely different beast than writing XML from scratch in a text editor. 
+
+> But, honestly, I don’t think that the future of layouts are layout applications.
+
+Haeme says that he was long looking for what would be the next kind of layout applications in the digital age. He says that Woodwing Inception or TruAuthor are the beginning of this new area, being HTML-driven and responsive but also friendly to graphic designers. I was myself looking for these kinds of tools for some time and I agree that there might be some appeal to them for a lot of people. *But, honestly, I don’t think that the future of layouts are layout applications.* Woodwing Inception for instance does a nice job in transforming a web layout into a Facebook Instant Article or the Apple News format. But that’s just a conversion from a proprietary HTML-flavor to other proprietary HTML-flavors. These kind of layouts are not ready for the new things on the horizon: be it virtual reality, wearables or even devices with no interface at all. Content first driven implementations should be able to serve them. That’s what content first is about. And that’s where responsive layout applications and HTML as a storage format fail. 
+
+Will HTML become relevant and maybe even serve as layout for print products? Yes, look at (link: https://www.callassoftware.com/en/products/pdfchip text: pdfChip). Do we need a layout application for content first? I don’t think so. Do we need better authoring interfaces for content first? Definitely, some good things are already out there. Do we need to think more deeply about how smart our content should be and which rules we apply to it? Absolutely.
+
+----
+
+Infoseo: 
+
+----
+
+Seotitle: About layout applications for content first
+
+----
+
+Seodescription: An article of Haeme Ulrich about HTML authoring caught my attention: He says that in content first HTML based layout applications are the way to go. Really?

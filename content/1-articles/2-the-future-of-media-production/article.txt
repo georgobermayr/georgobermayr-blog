@@ -1,0 +1,113 @@
+Title: The future of media production
+
+----
+
+Category: multichannel-technology
+
+----
+
+Tags: publishing,media,dtp,multichannel,media production,layouts,responsive,webdesign,social media,marketing,content strategy,api,content management,content modeling,design,print
+
+----
+
+Essential: 1
+
+----
+
+Date: 2016-08-08
+
+----
+
+Infocontent: 
+
+----
+
+Excerpt: Databases and publishing systems are everything in media production and the future is "web first"? Sorry, everything wrong! Here are four theses about the future of media production.
+
+----
+
+Text: 
+
+What is the future of media production? Depending on whom you ask, the answer is completely different: The future is in the cloud! Or apps! Or mobile! Or virtual reality! And so on…. Everyone has its own prediction, the one that fits best on what he or she has done in the past. Oh my, if it would be just that simple!
+
+If the last years of digitalization euphoria have shown us just one thing, than that there are no simple answers when it comes to the “next big thing”. We live in an age of exponential development and our assumptions based on linear growth are no longer able to catch up. So what is the future of media production then? We simply don’t know. That’s all. That’s the bitter truth.
+
+And just because this truth is so simple and so bitter it is so important that we as an industry reach a new level of common understanding. A new consensus is needed. A consensus about our data strategy, about how we create our content and designs, about how we make our future products collaboratively. It is about the infrastructure and the culture that helps stay media production successful in the future. This is not about a “five year plan” for media production, no, it’s about a new age of flexibility in an industry that used to think in standardization and defined workflows.
+
+So, how could it look like, this new common understanding of media production? I’d like to propose four theses on about how to proceed:
+
+## 1. Content and design that is not structured is too lazy for change
+
+That’s not really something new. (Fully) automated production with structured data has been done in a lot of companies for ages. Especially if massive amounts of product information need to be compiled into catalogs it’s simply not possible otherwise. But if we move from standardized designs to a more individual look and feel we barley see structured data out there in the wild. And this is where the trouble starts.
+
+To understand this we need to realize that we still do media production like in the old days when it all started with desktop publishing. We have a layout application, draw some boxes, place images and design as long as we need until everything pleases us. After that we produce a PDF that looks exactly the same as our layout did—WYSIWYG. This works fine as long as we only deal with the one static media that print happens to be. But then we as an industry made a mistake. We applied the WYSIWYG paradigm to other channels as well. It started with websites, then apps, then eBooks, and so on…. Modern web content management systems like WordPress are in their essence threated as the classic print layout applications. We create some columns and then we start designing.
+
+> Only if it’s known what the actual content means that is being shown, what his *semantics* are, responsible decisions about stacking, moving, hiding etc. can be made.
+
+This already doesn’t work in the web. If you want to do responsive web design and want to “stack” pages in a manner that makes sense, you need to know what content you are dealing with. Only if it’s known what the actual content means that is being shown, what his *semantics* are, responsible decisions about stacking, moving, hiding etc. can be made. And that’s only possible with structured data. And this problem grows with the number of channels you are dealing with. Who wants to communicate consistently from smart watch to smart TV, from print brochure to Facebook advert, needs to think about new ways of storing data.
+
+Today’s buzzword for media production with structured data is no longer “database” but the rather strange acronym API (application programming interface). API—a term you should remember. Of course, if you look at the basics, it will always be very important to find models in which to store the data: the database or content models. Carefully designed content models are nowadays built around reusability. They contain variants (i.e. conversion optimized headline for the web, short headline, print headline, …), alternative content (spoken texts, transcripts for videos, alternative texts for images, …) and meaningful metadata. Plus, they disassemble the content in as small chunks as possible. The most important thing however is that the content can be accessed from any destination you can think of, in a super flexible way. And that’s exactly what an API is for. You can build such an API on your own, for instance as PHP application coupled to a MySQL database, you can rent it at dedicated companies like Contentful, a company that builds content APIs, or you can use existing content management systems like WordPress or Drupal and enhance them.
+
+With a state of the art content model and an API it’s not only possible to produce catalogs for screws (the great stereotype of automated production!) but also sophisticated layout engines for marketing material. This type of technology already drives a lot of websites in these days and is becoming more and more relevant for other media as well. With the possibility to jump in and fix graphical issues, the move to structured data for all areas of the company is possible. But be careful! It is not the goal to treat all channels as if they where the same and to achieve the highest possible level of efficiency. No, the goal is, and must always be, to serve every channel in an ideal way and to fully exhaust its possibilities. The quartet of content model, API, layout engine and graphical freedom is therefore responsible that not the lowest common denominator is coming out of such a project.
+
+With all those great things something suddenly happens: If one of those tech giants again releases one of their new magic gadgets we are not just sitting, sweating and wondering how to serve the new channel. We know for sure that we can use the data from our API, come what may.
+
+## 2. It’s not really interesting where data is stored, the smartness of the infrastructure is what matters
+
+Talking about APIs inevitable leads us to the question of “where” our data is. A topic that is central in classic IT—but is it still nowadays? To get a better picture about the changes happening in IT we first need to take a look at today’s distribution models for software.
+
+When Adobe launched the subscription-based Creative Cloud and in the same turn canceled the classic perpetual Creative Suite the whole industry was in turmoil. But it didn’t help, Adobe sticked to its plan and forced the subscription model upon the industry. Sure, some people don’t wont to hear this: But this will never change again. Adobe is being praised in tech press for its transition of revenue streams and would be more than stupid to make any compromise here. That’s simply how software purchasing works now. People who have to evaluate software on a regular basis increasingly see subscription-based products. In some market segments you can hardly find anything else.
+
+All the moaning about subscriptions is again mostly grounded in a mindset that might have worked in classic print production but is surly outdated now. Today you don’t buy software and use it unchanged half a decade. The media channels and the requirements for them simply change too fast. Of course it’s annoying when Adobe is for instance canceling the Edge Suite but the move itself is very straightforward: We will see this kind of experiment more often in the future. The tool chain of InDesign/Illustrator/Photoshop might *still* be stable for print production but for other areas these standards simply don’t exist. If a software company in this situation is not generating constant revenue from subscriptions it is hardly possible to fund experiments with new tools in new segments. That’s something other vendors that still rely on perpetual licenses will find out sooner or later.
+
+> The intelligence of the infrastructure and what can be done with the data is where the music plays.
+
+This brings us back to the question of storing data. The Creative Cloud is not only a license model—it is actually a real cloud. What started as pure data storage (similar to Dropbox or Google Drive) evolved into something that becomes increasingly smart. Creative Cloud Libraries for instance enable the sharing of design artifacts in the team and across different applications. Similar things happen with the integration of Adobes own stock photo service. These are all steps that point in the right direction, but they can only be the beginning: Pure storage of data (be it in the cloud or local) is not sexy at all—the intelligence of the infrastructure and what can be done with the data is where the music plays. And this is where Adobe right now is only scratching the surface.
+
+A good example for the opportunities of clouds is Slack, an instant messaging service for enterprises that saw rapid adoption in the last years. Slack is integrating APIs from all possible sources and enables third parties to post in the messaging channels. The same thing can happen vice versa: Messages enable the users to communicate with APIs and get the results right away back into their messaging stream. That way a central point of communication arises, channeling all decentralized services. Or is this even a new tier of operating systems just for the cloud? Surely it’s a new generation of enterprise-class software. Another example: Cloudinary is a storage service for pictures in the cloud. But more importantly Cloudinary is an API that brings smartness to image (and video) delivery: Cloudinary recognizes faces in images, takes care of appropriate crops, converts file formats or creates image effects. And it’s the same again: *Where* the data is being stored is the wrong discussion, what matters is to have as much intelligence as possible.
+
+## 3. Instead of massive all-in-one content management systems, lean and connected systems are needed
+
+Intelligent infrastructure—this may ring a bell for some media production veterans: Editorial publishing systems are the role model for connected and “smart” print production, that’s a job for them! Ops! Sorry guys, but the editorial publishing classics are all socialized in print and thought with the mindset of print production. They are simply to static for today’s racy digital landscape. Many companies are hardly able to master the monolithic monsters they deployed into their shops. And: Sure, some of these systems are able to send a tweet but that’s not what is meant with multichannel production ;)
+
+> It is way smarter to combine multiple systems that do exactly one task and are by itself very lean, than to try and do every job within one vast single system.
+
+But apart from the classic editorial systems an interesting playground of newly thought out systems has emerged: TruEdit for instance is a print editorial publishing system in which the editors can work with Word and Excel while layouts take place in InDesign. That way the benefits of two fine systems are combined with each other. Other approaches in which Google Docs is used as editorial tool are also exiting. This shows that it is way smarter to combine multiple systems that do exactly one task and are by itself very lean, than to try and do every job within one vast single system.
+
+This is especially interesting when you realize that there is an ongoing stream of new decentralized media channels: Facebook Instant Articels, Apple News or Snapchat Stories are fine examples for this new beast of channels that are at home in “walled gardens” and uses proprietary file formats. With these channels on the rise the importance of the own website declines. That’s a development that is mirrored in a lot of other industries (look at booking portals and the hotel sector) and that has of course to be watched with a critical mind—but for us as publishing professionals this just doesn’t help: We need to be on these platforms to keep our audience and reach. And this is not stopping: the next “niche channels” are already in the making.
+
+A lot of these channels will be gone faster than they arrived. And that’s exactly the reason why it doesn’t make any sense to demand yet another content transformation of finished layouts from our vast print monoliths. It is way smarter to utilize leaner systems that are there for exactly one task, communicate via APIs and exchange their media agnostic content chunks. This is where the highly needed reactivity is born.
+
+One more example for a nice editorial system experiment: For a live ticker the New York Times has done the publishing via the aforementioned chat solution Slack. To do that, Slack was extended to kind of a mini editorial publishing system, including revision and approval processes. So much for the power of APIs and lean systems. And this not only sounds cool, it also shows that publishing today can, no must!, make more fun than we know from our stubborn print environments. It’s not without reason that some US publishing companies are currently competing about the most innovative and freshest publishing solution. The answer to the increasing proliferation of media channels is therefore not “more complexity” but “more simplicity”. And on this one we again only see the tip of the iceberg right now.
+
+## 4. We need to adjust to the fact that the publishing order is constantly changing
+
+Publishing order means which channel comes first. Sadly the terms “print first” and “digital first” have become the most popular examples for publishing order. Why sad? Well, “print first” shows the overcome treatment of print as being the “first” channel, while for a long time digital media has been the first point of contact for the majority of people. “Digital first” in the contrary symbolizes an actionistic move to digital media that often overlooks that print will still have its relevance. So what is the right publishing order then?
+
+First we need to have a look at the consequences changing the publishing order has. There is currently an interesting trend displayed in a software application by Callas Software: pdfChip creates printable PDF files from HTML websites. Pretty good print PDFs, because Callas has taken care of all of these print specialties like spot colors, color management or overprints. They implemented own HTML and CSS extension for these things. Why is this so amazing? For a lot of companies the website has become the “first” channel. Doing copy and past form finished print collateral into the content management system of the website (print first) is out of style for quite some time. So what would make more sense than to create the print material based on the website? Print production based on HTML sites is a trend that should definitely be watched carefully and that could take on speed pretty soon. With that in mind not even the classic print publishing toolchain centered around the layout application is save anymore.
+
+> From the perspective of the user all of these channels happen simultaneously and overlapping. 
+
+What does all this mean? Surely not that “HTML first” is now the future! Looking again at the increasing decentralization of media channels we realize that simple answers can no longer be given. What about “Facebook Instant Article first”? Or “Instagram first”? Or “WeChat first”? From the perspective of the user all of these channels happen simultaneously and overlapping. For a technical solution that is built around a defined starting channel this kind of flexibility is simply not possible.
+
+The answer to the question of “first” needs to look different in two ways: Technical and strategic. Technically speaking “content first” is the only way to go. We need to have these models that structurize our content and store them in a channel independent way. With that, when a new “first” channel arises, we are able to react fast and viable—except the new channel is so disruptive we first have to look at now ways to present and create our content. For that reason the second, strategic answer to the “first” question is “story first”. Of course. Before we know in which models we can store our content we first need to know what it is that we want to communicate. We need to know what our story is. It’s simply not working without that—our communication would otherwise be meaningless. Everything else is built on top of that. And with “everything” really everything is meant: The story of the communication should determine the technical infrastructure, the data concepts as well as, of course, the content models.
+
+**So, what is the future of media production then?**
+
+Media production of the future could really look that way: It could be more dynamic and flexible than what we have today. It could be something that freed itself from the burdens of print production but didn’t forget about the important print traditions.
+
+Media production of the future will be more of an open interface, an API, than a vast technologic block. Media production, that’s an API for communication with humans.
+
+*The German original of this article appeared first in the Swiss magazine “Publisher” with the headline “Pladoyer für einen neuen Grundkonsens im Publishing”.*
+
+----
+
+Infoseo: 
+
+----
+
+Seotitle: The future of media production
+
+----
+
+Seodescription: Databases & publishing systems are everything in media production and the future is "web first"? Sorry, wrong! Four theses about the future of media production.
