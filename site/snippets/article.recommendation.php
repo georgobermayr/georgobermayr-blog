@@ -1,12 +1,16 @@
-<article class="article__recommendation">
+<?php $recommendation = $page->recommendation(); error_log(print_r($recommendation, true)); ?>
+
+<a
+  href="<?php echo $recommendation->url()?>"
+  class="article__recommendation">
   <h3>
     <span>
       Read next
     </span>
-    Headline bla bla
+    <?php echo $recommendation->title() ?>
   </h3>
   <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore autem praesentium repellendus! Excepturi aliquid assumenda tempore fugiat vitae distinctio incidunt, eaque quidem aperiam dolores veritatis? Molestias sequi ipsa iure unde.
+    <?php echo $recommendation->excerpt() ?>
     <strong>Read more&thinsp;…</strong>
   </p>
-</article>
+</a>

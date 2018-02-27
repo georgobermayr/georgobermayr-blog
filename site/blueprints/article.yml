@@ -17,16 +17,23 @@ fields:
   category:
     label: Category
     type: select
-    width: 1/2
+    width: 1/3
     options: query
     query:
       page: /category
+
+  tags:
+    label: Tags
+    type: tags
+    lower: true
+    required: true
+    width: 1/3
 
   essential:
     label: Essential reading
     text: Is essential
     type: checkbox
-    width: 1/2
+    width: 1/3
 
   date:
     label: Published at
@@ -42,6 +49,9 @@ fields:
     type: textarea
     buttons: false
     required: true
+    validate:
+      minLength: 40
+      maxLength: 250
 
   text:
     label: Text

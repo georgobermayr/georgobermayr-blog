@@ -147,6 +147,13 @@
     font-family: $font-family-sans;
     line-height: 1.2;
   }
+
+  &:hover {
+
+    & > h3 {
+      text-decoration: underline;
+    }
+  }
 }
 
 .article__author {
