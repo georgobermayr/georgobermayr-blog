@@ -4,15 +4,39 @@
 
   padding-top: 5rem;
 
-  & > p {
+  & > p,
+  & > ul,
+  & > h2,
+  & > h3,
+  & > h4,
+  & > h5,
+  & > h6 {
     grid-column: 2 / 24;
-
-    line-height: 1.5;
-    margin-bottom: $font-size-normal;
 
     @include breakpoint($breakpoint-md) {
       grid-column: 6 / 19;
     }
+  }
+
+  & > p,
+  & > ul {
+    line-height: 1.5;
+    margin-bottom: $font-size-normal;
+  }
+
+  & > ul > li {
+    text-indent: -3rem;
+    margin-left: 3rem;
+
+    &::before {
+      content: "—";
+      margin-right: 1rem;
+    }
+  }
+
+  img {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
   }
 
   & > blockquote {
@@ -140,10 +164,6 @@
     margin: 5rem 0;
     padding-left: 1.5rem;
   }
-
-  & > h3 {
-    font-size: $font-size-normal;
-  }
 }
 
 .article__teaser {
@@ -173,6 +193,7 @@
 
   & > p {
     padding-bottom: 3rem;
+    line-height: 1.2;
 
     & > strong {
       color: $primary-color;
