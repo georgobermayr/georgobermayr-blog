@@ -71,6 +71,14 @@
       color: $black;
     }
   }
+
+  & > .menu__twitter {
+    margin-top: -0.3rem;
+
+    &:hover svg g {
+      fill: $black;
+    }
+  }
 }
 
 .menuitem--active {
