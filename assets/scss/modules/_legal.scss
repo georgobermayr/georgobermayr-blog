@@ -1,0 +1,52 @@
+.legal {
+  display: grid;
+  grid-template-columns: repeat( 24, 1fr );
+
+  padding-top: 5rem;
+
+  & > p,
+  & > ul,
+  & > h1,
+  & > h2,
+  & > h3,
+  & > h4,
+  & > h5,
+  & > h6 {
+    grid-column: 2 / 24;
+
+    @include breakpoint($breakpoint-md) {
+      grid-column: 6 / 19;
+    }
+  }
+
+  & > h1 {
+    font-size: $font-size-large * 0.6;
+
+    @include breakpoint($breakpoint-md) {
+      font-size: $font-size-large;
+    }
+  }
+
+  & > p,
+  & > ul {
+    line-height: 1.5;
+  }
+
+  & > ul > li {
+    text-indent: -3rem;
+    margin-left: 3rem;
+
+    &::before {
+      content: "—";
+      margin-right: 1rem;
+    }
+  }
+
+  a {
+    text-decoration: underline;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
