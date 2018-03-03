@@ -1,0 +1,4 @@
+fields:
+  biography:
+    label: Biography
+    type: textarea

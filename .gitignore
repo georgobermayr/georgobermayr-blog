@@ -14,7 +14,7 @@ assets/js/**/*.min.js
 /site/cache/*
 !/site/cache/index.html
 
-/site/accounts/*
+/site/accounts/.logins
 !/site/accounts/index.html
 
 /assets/avatars/*
