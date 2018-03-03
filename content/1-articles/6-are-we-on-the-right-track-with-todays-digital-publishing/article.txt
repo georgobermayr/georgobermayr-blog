@@ -1,0 +1,186 @@
+Title: Are we on the right track with today’s digital publishing?
+
+----
+
+Category: multichannel-technology
+
+----
+
+Tags: digital publishing,adobe,digital publishing suite,dps,digital magazines,publishing,book publishing,scrum,agile,design thinking,apis,media
+
+----
+
+Essential: 1
+
+----
+
+Date: 2014-06-26
+
+----
+
+Infocontent: 
+
+----
+
+Excerpt: Is Digital Publishing really digital? Or are we again thinking print, even when we design for digital media? Some thoughts on what "digital" really means.
+
+----
+
+Text: 
+
+## Or: Is digital publishing really “digital”? Some thoughts from my talk at bookmarks 2014.
+
+Munich’s renowned typographic society invited me for a talk to join their bookmarks conference targeted at book designers and creators. The talk I was supposed to give was titled “Magazines between paper and pad” with this interesting description:
+
+*“Borders between media are blurring: Books are being swiped, magazines digitally scrolled and even in print one can today — occasionally — navigate. Various examples showcase the difference between print and digital media creation.”*
+
+When I started to draft my talk **I realized that most of todays digital publishing solutions are not getting “digital” right.**
+
+It is important to state that we are in a paradigm shift towards a digital society. And of course this also applies heavily to publishing. This paradigm shift often leads to “finger pointing” between print and web persons. There are a lot of stereotypes in this debate as one of the first slides in my talks shows:
+
+(image: Print-Digital.jpg alt: Print vs. Digital in stereotypes)
+
+This slide gives a rather negative perspective on the print side of publishing, making print look “old” and “static”. On the other hand, print people often think different: They see print as an environment with *full control* over the rendering whereas digital is being perceived as an environment with *little or no control* over the rendering.
+
+With those stereotypes in mind I began re-thinking about todays landscape of digital magazines. Are they really as “dynamic / fluid / open / collaborative” as they should be according to the possibilities of “digital”? I took a fresh look at some of these best practice examples produced with Adobes Digital Publishing Suite (DPS):
+
+(image: DPS-Examples.jpg alt: Best Practice design examples created with the Adobe DPS. Some of them have enrichments on top of the design. caption: Best Practice design examples created with the Adobe DPS. Some of them have enrichments on top of the design.)
+
+Make no mistake: These examples show great graphic design and typography. But they are building upon the print mindset:
+
+- They are static as a print design.
+- They are precisely composed with little or no dynamic in rendering.
+- They are separated from the world outside of their apps.
+- They make no use of the open web.
+- And in some cases (depending on the solution) they are not even making use of the some of the basic capabilities of the device like full text search or notes.
+
+> In my opinion the word “Enrichment” shows everything that’s wrong with todays digital publishing.
+
+We even invented a new word for some components within these magazines: “Enrichment”. In my opinion the word “Enrichment” shows everything that’s wrong with todays digital publishing. We design static print-like pages and once finished we “enrich” them by adding multimedia content on top of the static design. Instead of trying to create an incorporated way of storytelling we are pasting interactive extras in our print design. *But designing and creating for digital media doesn’t mean to enrich print with some specials—it means to find new and integrated ways to tell the story.* Unfortunately today’s tools are mostly suggesting the first approach to us.
+
+So even if some of us tend to see all these digital magazines as great examples of the usage of digitals capabilities: they are really the opposite. The have all the attributes we have given to print: They are static, finished, composed, closed and separated.
+
+For me this means that despite being in the midst of a paradigm shift towards digital we are still trying to solve the new (digital) problems with the old (print) thinking. Digital magazines are my role models for this thesis.
+
+(link: http://craigmod.com/journal/post_artifact text: Craig Mod has developed a great model) of how the classic book publishing is structured:
+
+(image: Print-Artifact.jpeg alt: The book in a system perspective by Craig Mod: The book is displayed as the great, immutable, artifact created in a lonely, isolated pre artifact system. Reading the book is also mostly happening in an isolated way. Time is no factor in this system—the book just suddenly appears. caption: The book in a system perspective by Craig Mod: The book is displayed as the great, immutable, artifact created in a lonely, isolated pre artifact system. Reading the book is also mostly happening in an isolated way. Time is no factor in this system—the book just suddenly appears.)
+
+This model not only describes greatly how book publishing is working, unfortunately it also applies completely to most of todays digital magazines …
+
+Again: This is proof to me that we are still in “print thinking mode”, even when designing for digital media.
+
+There are interesting theories about how a paradigm shift is happening. One of the best known from Thomas S. Kuhn describes the transition from the normal state over anomalies and crises to the final revolution. Digital magazines show to me that we are still in the normal state of moving to digital.
+
+With that insight a large part of my talk was dedicated to showcase some of the anomalies and crises we already see in publishing. It was not my intention to provide the ultimate solution (there is no one yet), instead I wanted to give some inspiration into what fresh thinking for digital can lead.
+
+Here we go:
+
+- (link: Medium.com text: Medium.com) provides a standardized and open framework for stories. Medium also offers a great approach to how comments and community feedback are being handled.
+- (link: Cir.ca text: Cir.ca) is making news more accessible by atomizing it into small objective chunks. A trend heavily followed by the “live tickers” in mainstream media.
+- (link: http://the-magazine.org text: The Magazine) uses lightweight technology and publishing schedules: Every two weeks just four+ articles are published simultaneously in web and app inside a slim interface that doesn’t need help pages (unlike most digital magazines).
+- (link:  hi.co text: hi.co) is an iterative writing platform perfectly suited to travel journalism. At hi sketches (created with the smartphone) become stories based on user feedback and demand. Those stories form a narrative mapping built in real time.
+- (link: http://flipboard.com text: Flipboard) does a great job letting the users curate content into their own magazines. That also means that the content is being pulled out of their usual environment and rendered within Flipboard. Again: This openness is fundamental to the web but it’s quite the opposite of common digital magazines.
+
+(image: Greatdsicontent.jpeg text: The great discontent shows great storytelling on the digital canvas. caption: The great discontent shows great storytelling on the digital canvas.)
+
+- (link: https://thegreatdiscontent.com text: The great discontent) publishes one long interview with a creative person every week. *Can you see the pattern?* Again we have a very lightweight publishing schedule that is fast and not crammed. This speed gives the opportunity to work with the user feedback and to incorporate it into future releases quickly. The great discontent also did a print magazine (of course funded with Kickstarter) with their interviews, showing how beautiful this publishing approach is: While the digital media is continuing to evolve quickly every once a while an “immutable artifact” is printed providing kind of a snapshot of the digital content.
+
+Craig Mod also created a model for this kind of publishing that in my opinion feels way more natural for “digital”:
+
+(image: Digital-Artifact.jpeg alt: Digital publishing in Craig Mods model: Time is now a factor in the pre artifact system with direct engagement between author and reader, blurring the line between the two of them. In the post artifact system readers comments and notes are layered on top of the original artifact—pushing it further. A print product  – the great, immutable, artifact – serves as a snapshot that can be created at any given time while the digital system keeps evolving. caption: Digital publishing in Craig Mods model: Time is now a factor in the pre artifact system with direct engagement between author and reader, blurring the line between the two of them. In the post artifact system readers comments and notes are layered on top of the original artifact—pushing it further. A print product  – the great, immutable, artifact – serves as a snapshot that can be created at any given time while the digital system keeps evolving)
+
+Compare this to the classic approach and we see significant differences:
+
+- Time is now a factor in publishing with immediate user feedback as the driving force.
+- There is no disconnect between readers and publishers.
+- A post artifact system is existent pushing the original piece of content further inside of a shared interface.
+- Print serves as a snapshot while digital keeps evolving.
+
+So we have a continuing iterative process that forms most of todays publishing experiments. When we look at these examples (and there are lot more) we see again in clear light how “wrong” today’s digital publishing solutions are. They are not making use of any of the patterns that the previous examples show. In fact, they do in some cases quite the opposite.
+
+With all this in mind I don’t think that the digital publishing solutions we use now are “here to stay”. These great examples show to me that most digital magazines are playing the print game on the screen. It’s just a matter of time that users will demand more open and fluid approaches to digital publishing. *But what could be the building blocks of tomorrows publishing technologies and processes?
+*
+In the last part of my talk I outlined three main areas in which change should happen:
+
+## Form open modules
+
+Many of my examples have open APIs enabling their content to live free in the web. It think that’s key: digital is based on the idea of openness, it’s not about distributing monolithic blocks that have no connection to the outside world. There are already publishers that have developed APIs like the New York Times but the majority is still trying to lock up their content.
+
+(image: API-NYT.jpeg alt: API website of the New York Times text: API website of the New York Times)
+
+Of course: Letting content in the wild means to loss control about its rendering. But that’s the price if we want to benefit from what digital media could offer us.
+
+This brought my talk to the question of the authoring applications we use today. Speaking of digital publishing solutions we still use the same tools we used to have for print: InDesign and QuarkXPress. To be clear: This approach has a lot of advantages in terms of editorial workflows, collaboration or staff training for instance. But on the other hand it’s very clear to me that these tools have been socialized in print with a long history in print media. They’ve got the smell of print everywhere! And in fact that’s the reason why we got this whole enrichment- and page-thinking thing so wrong when we moved to digital magazines.
+
+(image: Layouttools.jpeg alt: What’s the future for authoring tools in the digital age? text: What’s the future for authoring tools in the digital age?)
+
+So I think we will see some new kinds of tools emerging in the future: authoring tools that are freshly thought for digital media and that enable a lightweight approach to put integrated storytelling and fluid publishing schedules into practice.
+
+For me this will happen with:
+- The separation of content and style
+- Usage of open standards (like HTML5, which I think we have to learn—at least until there is a good authoring application for fluid HTML5)
+- The loss of rendering control
+
+## Iterate and work together
+
+Publishing today is mostly organized in linear workflows: These waterfall processes are ultimately leading to the final product (“the artifact”). However (as the examples show) digital needs a different process approach:
+- Working step-by-step towards the vision of the project
+- Doing fast iterative cycles with quickly released products
+- Incorporate the feedback from your costumers and the market in the next iteration
+
+Our classic processes and ways of working together are not suited for this style of doing things. Happily there are proven process methodologies from other industries that we can adapt to publishing: *agile processes like scrum or design thinking that are based on everything we need:
+*
+- Iterative release cycles and working style
+- Work flexible with the project vision in mind
+- Being open to new developments and not being trapped in old requirement documents
+
+(image: agileworking.jpeg alt: Scrum and design thinking in practice: The only way of working appropriate for digital media. caption: Scrum and design thinking in practice: The only way of working appropriate for digital media.
+)
+
+But what’s most important for me: in agile processes an interdisciplinary way of working is key to everything. A deep and intensive collaboration between persons from different departments is essential to create great digital products. No one alone can make use of all the capabilities digital has. So we need to work together to create an outstanding result.
+
+Again: This is different to the “enrichment” way of thinking. Instead of pasting interactivity on top of an already given content, interdisciplinary collaboration leads to products in which the interaction is an integral part of the content.
+
+Last year I had the opportunity to co-author a book about how to apply agile processes into publishing: “Agile Publishing” ((link: http://www.agile-publishing.de text: German edition here)). So for me this is really something we all should put into practice.
+
+## Never finish
+
+Agile processes quickly lead to the most important change in our mindset we need to make when doing digital: *We need to learn that nothing is ever finished!*
+
+I found an interesting quote from the New York Times about their recent redesign of the article page:
+
+„We’re going to tackle the home page and section fronts next, though we may not take the same approach. For the home page we’re going to being iterating from the re-skin, slowly adding features and refinements. *Its “redesign” will be a slow evolution.*
+We’ll still continue work on the story page. *We don’t want to just let it sit and rot on the internet, and end up right back that this point again where we had to no choice but to do a major overhaul.“* 
+— Renda Morton, Product Design Lead, New York Times
+
+This is the real game changer! This basically means the end of big redesign projects. Instead the iterative approach is applied to everything (also to the company culture). Digital is never finished, the work always continues. So we need to adopt quickly, work with the user feedback and iterate continually. (Quite the opposite of the monolithic blocks most digital magazines are.) This brought my talk back to the initial slide:
+
+(image: print-digital2.jpeg alt: print-digital)
+
+This slide is probably not entirely correct … When we think about print it was never as static (different editions or versions), closed or separated (cross-references to other printed products — an analog hyperlink concept ;-) or composed (comments and remarks by the reader) as the stereotype says. But there is one big difference:
+
+(image: Digital-Finished.jpeg alt: Digital-Finished)
+
+**Print is a medium based on being finished. Digital not. Digital is never finished.**
+
+We need to accept unfinishedness and incorporate it into our working style. To claim “that’s finished” is the thing we need to abandon. The rest–digital publishing solutions, publishing schedules, collaboration styles and processes–will follow almost immediately once we realize this.
+
+This conclusion was the essence of my talk. And of course this caused some discussions among the book designers attending the conference ;-)
+
+So I don’t think it’s the tools to blame. They fulfilled the demand driven by the print way of thinking. Now is the time to re-think publishing. Digitally.
+
+**The slides of my talk can be found on slideshare:**
+**(link: http://de.slideshare.net/obermayrgeorg/digital-anomalies-magazines-between-paper-and-pad text: English version) • (link: http://de.slideshare.net/obermayrgeorg/digitale-anomalien-magazine-zwischen-papier-und-pad text: German version)**
+
+----
+
+Infoseo: 
+
+----
+
+Seotitle: Are we on the right track with today’s digital publishing?
+
+----
+
+Seodescription: Is Digital Publishing really digital? Or are we again thinking print, even when we design for digital media? Some thoughts on what "digital" really means.
