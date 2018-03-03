@@ -1,4 +1,4 @@
-<?php $recommendation = $page->recommendation(); error_log(print_r($recommendation, true)); ?>
+<?php $recommendation = $page->recommendation() ?>
 
 <a
   href="<?php echo $recommendation->url()?>"

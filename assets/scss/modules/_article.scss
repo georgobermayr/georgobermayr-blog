@@ -24,6 +24,14 @@
     margin-bottom: $font-size-normal;
   }
 
+  a:not( .article__recommendation ) {
+    text-decoration: underline;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+
   & > ul > li {
     text-indent: -3rem;
     margin-left: 3rem;
@@ -34,9 +42,24 @@
     }
   }
 
-  img {
+  & > figure {
+    grid-column: 2 / 24;
+
     margin-top: 5rem;
     margin-bottom: 5rem;
+
+    @include breakpoint($breakpoint-md) {
+      grid-column: 5 / 20;
+    }
+  }
+
+  img {
+    margin-bottom: 2rem;
+  }
+
+  figcaption {
+    font-style: italic;
+    line-height: 1.5;
   }
 
   & > blockquote {
