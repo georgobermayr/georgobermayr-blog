@@ -2,15 +2,15 @@ Title: Content Architecture
 
 ----
 
-Description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Description: Good content is the cornerstone for every communication strategy to succeed. Sounds like a no-brainer. But in todays digital-driven marketing world, you need more than that. Content needs to be connected, it needs to be structured and it needs to be smart, really smart. And this is where most companies fail. Content needs to be thought as crucial part of the infrastructure, your content architecture should unlock the future, not make it even more complicated.
 
 ----
 
-Teaserheadline: Smart Content
+Teaserheadline: How Smart can Content be?
 
 ----
 
-Teasertext: Explorations in artificial intelligence and its disruption of creativity, marketing and media production.
+Teasertext: Content is not just some dumb text or picture. For todays digital experiences to work, content needs to be connect, structured and smart.
 
 ----
 
@@ -18,8 +18,8 @@ Infoseo:
 
 ----
 
-Seotitle: Content Architecture
+Seotitle: Good Content Architecture as driving force for digital media
 
 ----
 
-Seodescription: Explorations in artificial intelligence and its disruption of creativity, marketing and media production.
+Seodescription: For todays digital experiences to work, content needs to be connect, structured and smart. A content infrastructure unlocks that.

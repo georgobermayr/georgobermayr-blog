@@ -2,15 +2,15 @@ Title: Agile Publishing
 
 ----
 
-Description: 
+Description: Today it is easy to state the obvious: If you seriously want to move forward with digitalization, you need to work on company culture, team organisation and processes. And you need to put the user perspective front and center. Agile, Scrum, Design Thinking and all the other buzzwords can help with that. But what looks nice on paper is very difficult in practice. It helps to look at agile as a framework you can tailor-suit to your needs instead of using it as a religion with ten commandments you need to follow.
 
 ----
 
-Teaserheadline: 
+Teaserheadline: Is Agile the new Normal?
 
 ----
 
-Teasertext: 
+Teasertext: Everyone agrees: Digital needs new ways of working together, organizing teams and building company cultures. But agile is not a religion, it's just a tool that should help you with your goals.
 
 ----
 
@@ -18,8 +18,8 @@ Infoseo:
 
 ----
 
-Seotitle: 
+Seotitle: Agile teamwork as key to creating digital products
 
 ----
 
-Seodescription: 
+Seodescription: Digital media production needs new ways of working together, organizing teams and building company cultures. But agile and scrum are not religions.

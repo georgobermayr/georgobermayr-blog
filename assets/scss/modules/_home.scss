@@ -66,6 +66,9 @@
 
     @include breakpoint($breakpoint-md) {
       grid-column-end: 7;
+
+      padding-left: 2rem;
+      padding-right: 2rem;
     }
   }
 

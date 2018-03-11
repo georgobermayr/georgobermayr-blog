@@ -2,7 +2,7 @@ Title: Publishing & AI
 
 ----
 
-Description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Description: There is no "I" in artificial intelligence. A machine doesn't know about itself, doesn't have consciousness. So the question about "machine creativity"? It's answered: Without consciousness, no empathy, no self-reflection, no rule-breaking. The basic ingredients for creativity are far out of reach for current AI concepts. But clearly something is happening: Machine learning tools are more and more aiding the design and marketing processes. This is no threat to human creativity—it is an opportunity.
 
 ----
 
@@ -14,8 +14,8 @@ Teasertext: Explorations in artificial intelligence and its disruption of creati
 
 ----
 
-Seotitle: Publishing & AI
+Seotitle: Marketing and creativity in the wake of machine learning
 
 ----
 
-Seodescription: Explorations in artificial intelligence and its disruption of creativity, marketing and media production.
+Seodescription: Explorations in how artificial intelligence and machine learning disrupt creativity, marketing and media production.
