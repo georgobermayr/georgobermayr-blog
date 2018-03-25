@@ -4,3 +4,6 @@
 [submodule "panel"]
 	path = panel
 	url = https://github.com/getkirby/panel.git
+[submodule "site/plugins/feed"]
+	path = site/plugins/feed
+	url = https://github.com/getkirby-plugins/feed-plugin

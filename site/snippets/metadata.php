@@ -41,6 +41,9 @@
   <meta content="<?php echo $description ?>" name="twitter:description" />
   <meta content="<?php echo $site->title() ?>" name="twitter:image:alt" />
 
+  <!-- RSS feed -->
+  <link rel="alternate" type="application/rss+xml" href="<?= url('feed') ?>" title="<?php echo html($pages->find('feed')->title()) ?>" />
+
   <?php echo css('assets/css/main.min.css') ?>
 
 </head>
