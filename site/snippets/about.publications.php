@@ -23,23 +23,21 @@
   <ul class="publications__regular">
     <?php foreach ($page->publications()->toStructure()->filterBy('featured', '0')->flip() as $publication): ?>
       <li>
-        <h3>
+        <strong>
           <?php echo $publication->name() ?>
-        </h3>
-        <p>
-          <span>
-            <?php echo $publication->year() ?>
-          </span>
-          <?php echo 'for ' . $publication->client() ?>
-        </p>
+          <br>
+        </strong>
+        <span>
+          <?php echo $publication->year() ?>
+        </span>
+        <?php echo 'for ' . $publication->client() ?>
       </li>
     <?php endforeach ?>
 
     <li>
-      <h3>And many more …</h3><br>
-      <p>
-        <strong><a href="mailto:info@georgobermayr.de" class="about__ctaLink">Interested in hiring me for a publication? Contact me!</a></strong>
-      </p>
+      <strong>And many more …</strong>
+      <br>
+      <strong><a href="mailto:info@georgobermayr.de" class="about__ctaLink">Interested in hiring me for a publication? Contact me!</a></strong>
     </li>
 
   </ul>

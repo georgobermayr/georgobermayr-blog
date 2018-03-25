@@ -169,13 +169,16 @@
 .talks__regular,
 .publications__regular {
 
-  h3 {
-    display: inline-block;
+  & > li > strong {
+    font-family: $font-family-sans;
+    font-weight: $font-weight-bold;
+    color: $primary-color;
   }
 
   @include breakpoint($breakpoint-md) {
 
-    p {
+    & li {
+      text-indent: -3rem;
       margin-left: 3rem;
     }
   }
