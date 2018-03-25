@@ -18,15 +18,15 @@ Date: 2014-06-26
 
 ----
 
-Infocontent: 
+Infocontent:
 
 ----
 
-Excerpt: Is Digital Publishing really digital? Or are we again thinking print, even when we design for digital media? Some thoughts on what "digital" really means.
+Excerpt: Is Digital Publishing really digital? Or are we again thinking print, even when we design for digital media? Some thoughts on what “digital” really means.
 
 ----
 
-Text: 
+Text:
 
 ## Or: Is digital publishing really “digital”? Some thoughts from my talk at bookmarks 2014.
 
@@ -151,7 +151,7 @@ Agile processes quickly lead to the most important change in our mindset we need
 I found an interesting quote from the New York Times about their recent redesign of the article page:
 
 „We’re going to tackle the home page and section fronts next, though we may not take the same approach. For the home page we’re going to being iterating from the re-skin, slowly adding features and refinements. *Its “redesign” will be a slow evolution.*
-We’ll still continue work on the story page. *We don’t want to just let it sit and rot on the internet, and end up right back that this point again where we had to no choice but to do a major overhaul.“* 
+We’ll still continue work on the story page. *We don’t want to just let it sit and rot on the internet, and end up right back that this point again where we had to no choice but to do a major overhaul.“*
 — Renda Morton, Product Design Lead, New York Times
 
 This is the real game changer! This basically means the end of big redesign projects. Instead the iterative approach is applied to everything (also to the company culture). Digital is never finished, the work always continues. So we need to adopt quickly, work with the user feedback and iterate continually. (Quite the opposite of the monolithic blocks most digital magazines are.) This brought my talk back to the initial slide:
@@ -175,7 +175,7 @@ So I don’t think it’s the tools to blame. They fulfilled the demand driven b
 
 ----
 
-Infoseo: 
+Infoseo:
 
 ----
 
@@ -183,4 +183,4 @@ Seotitle: Are we on the right track with today’s digital publishing?
 
 ----
 
-Seodescription: Is Digital Publishing really digital? Or are we again thinking print, even when we design for digital media? Some thoughts on what "digital" really means.
+Seodescription: Is Digital Publishing really digital? Or are we again thinking print, even when we design for digital media? Some thoughts on what “digital” really means.

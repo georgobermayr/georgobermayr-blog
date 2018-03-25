@@ -22,6 +22,11 @@
   & > ul {
     line-height: 1.5;
     margin-bottom: $font-size-normal;
+    font-size: $font-size-normal * 0.8;
+
+    @include breakpoint($breakpoint-md) {
+      font-size: unset;
+    }
   }
 
   a:not( .article__recommendation ) {
@@ -224,6 +229,12 @@
   & > p {
     padding-bottom: 3rem;
     line-height: 1.2;
+
+    font-size: $font-size-normal * 0.8;
+
+    @include breakpoint($breakpoint-md) {
+      font-size: unset;
+    }
 
     & > strong {
       color: $primary-color;

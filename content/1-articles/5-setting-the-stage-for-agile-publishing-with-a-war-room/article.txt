@@ -18,7 +18,7 @@ Date: 2014-06-01
 
 ----
 
-Infocontent: 
+Infocontent:
 
 ----
 
@@ -26,9 +26,9 @@ Excerpt: How to set up a War Room for Agile Publishing quickly by using the thin
 
 ----
 
-Text: 
+Text:
 
-One of the key things to do when adopting Agile Publishing is to bring all the people needed for the project within one room: the War Room. Only in that room, without the usual borders of internal departments and without job titles and hierarchies true collaboration between different disciplines can emerge. The war room by itself is loud, there are ongoing conversations between the people in the room. No one is just working in its own "silo" — everyone is required to think outside of his box, all the time.
+One of the key things to do when adopting Agile Publishing is to bring all the people needed for the project within one room: the War Room. Only in that room, without the usual borders of internal departments and without job titles and hierarchies true collaboration between different disciplines can emerge. The war room by itself is loud, there are ongoing conversations between the people in the room. No one is just working in its own “silo“ — everyone is required to think outside of his box, all the time.
 
 When I talk with people on how to adopt agile methodologies into their publishing and media production workflows having a war room is always a great first step for me. In a good environment many of the other ingredients for agile working will follow almost immediately when all the team members are in the same room.
 
@@ -60,7 +60,7 @@ What experiences with Publishing War Rooms do you have?
 
 ----
 
-Infoseo: 
+Infoseo:
 
 ----
 

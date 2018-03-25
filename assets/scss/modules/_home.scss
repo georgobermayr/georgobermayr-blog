@@ -61,11 +61,11 @@
   }
 
   & > img {
-    grid-column: 1 / 6;
+    grid-column: 2 / 10;
     width: 100%;
 
     @include breakpoint($breakpoint-md) {
-      grid-column-end: 7;
+      grid-column: 1 / 7;
 
       padding-left: 2rem;
       padding-right: 2rem;
@@ -73,7 +73,7 @@
   }
 
   & > .home__category__content {
-    grid-column: 6 / 24;
+    grid-column: 2 / 24;
     margin-top: 3rem;
 
     @include breakpoint($breakpoint-md) {

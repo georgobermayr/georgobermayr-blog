@@ -2,7 +2,7 @@ Title: Publishing & AI
 
 ----
 
-Description: There is no "I" in artificial intelligence. A machine doesn't know about itself, doesn't have consciousness. So the question about "machine creativity"? It's answered: Without consciousness, no empathy, no self-reflection, no rule-breaking. The basic ingredients for creativity are far out of reach for current AI concepts. But clearly something is happening: Machine learning tools are more and more aiding the design and marketing processes. This is no threat to human creativity—it is an opportunity.
+Description: There is no “I” in artificial intelligence. A machine doesn't know about itself, doesn't have consciousness. So the question about “machine creativity”? It's answered: Without consciousness, no empathy, no self-reflection, no rule-breaking. The basic ingredients for creativity are far out of reach for current AI concepts. But clearly something is happening: Machine learning tools are more and more aiding the design and marketing processes. This is no threat to human creativity—it is an opportunity.
 
 ----
 

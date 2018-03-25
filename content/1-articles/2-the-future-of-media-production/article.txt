@@ -18,15 +18,15 @@ Date: 2016-08-08
 
 ----
 
-Infocontent: 
+Infocontent:
 
 ----
 
-Excerpt: Databases and publishing systems are everything in media production and the future is "web first"? Sorry, everything wrong! Here are four theses about the future of media production.
+Excerpt: Databases and publishing systems are everything in media production and the future is “web first”? Sorry, everything wrong! Here are four theses about the future of media production.
 
 ----
 
-Text: 
+Text:
 
 What is the future of media production? Depending on whom you ask, the answer is completely different: The future is in the cloud! Or apps! Or mobile! Or virtual reality! And so on…. Everyone has its own prediction, the one that fits best on what he or she has done in the past. Oh my, if it would be just that simple!
 
@@ -86,7 +86,7 @@ Publishing order means which channel comes first. Sadly the terms “print first
 
 First we need to have a look at the consequences changing the publishing order has. There is currently an interesting trend displayed in a software application by Callas Software: pdfChip creates printable PDF files from HTML websites. Pretty good print PDFs, because Callas has taken care of all of these print specialties like spot colors, color management or overprints. They implemented own HTML and CSS extension for these things. Why is this so amazing? For a lot of companies the website has become the “first” channel. Doing copy and past form finished print collateral into the content management system of the website (print first) is out of style for quite some time. So what would make more sense than to create the print material based on the website? Print production based on HTML sites is a trend that should definitely be watched carefully and that could take on speed pretty soon. With that in mind not even the classic print publishing toolchain centered around the layout application is save anymore.
 
-> From the perspective of the user all of these channels happen simultaneously and overlapping. 
+> From the perspective of the user all of these channels happen simultaneously and overlapping.
 
 What does all this mean? Surely not that “HTML first” is now the future! Looking again at the increasing decentralization of media channels we realize that simple answers can no longer be given. What about “Facebook Instant Article first”? Or “Instagram first”? Or “WeChat first”? From the perspective of the user all of these channels happen simultaneously and overlapping. For a technical solution that is built around a defined starting channel this kind of flexibility is simply not possible.
 
@@ -102,7 +102,7 @@ Media production of the future will be more of an open interface, an API, than a
 
 ----
 
-Infoseo: 
+Infoseo:
 
 ----
 
@@ -110,4 +110,4 @@ Seotitle: The future of media production
 
 ----
 
-Seodescription: Databases & publishing systems are everything in media production and the future is "web first"? Sorry, wrong! Four theses about the future of media production.
+Seodescription: Databases & publishing systems are everything in media production and the future is “web first”? Sorry, wrong! Four theses about the future of media production.

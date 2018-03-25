@@ -49,6 +49,14 @@
       grid-column: 6 / 18;
     }
   }
+
+  & > p {
+    font-size: $font-size-normal * 0.8;
+
+    @include breakpoint($breakpoint-md) {
+      font-size: unset;
+    }
+  }
 }
 
 .about__contacts {
@@ -163,6 +171,10 @@
     &:nth-of-type( 4n + 1 ) {
       grid-column-start: 3;
     }
+  }
+
+  img {
+    width: 100%;
   }
 }
 
