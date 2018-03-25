@@ -97,3 +97,7 @@ fields:
         label: Link to the contact
         type: text
         required: true
+
+  # SEO
+  seo:
+    extends: seo

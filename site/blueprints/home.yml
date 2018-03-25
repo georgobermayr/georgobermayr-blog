@@ -19,3 +19,7 @@ fields:
     type: textarea
     required: true
     buttons: false
+
+  # SEO
+  seo:
+    extends: seo
