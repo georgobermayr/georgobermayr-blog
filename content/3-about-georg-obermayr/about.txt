@@ -1,1 +1,334 @@
 Title: About Me
+
+----
+
+Intro: I'm one of those guys in the media production and publishing scene, that is often labeled as a thought leader. But I'm a practitioner.
+
+----
+
+Text: 
+
+Day in an day out I work as Head of Crossmedia Production in an advertising agency. I'm hands on creating content infrastructures and designing websites, apps and social media stuff that are driven by these infrastrucutures. This it what grounds me. 
+
+And it is this daily business work that helps me identifying the trends and emerging topics of our field. With that kind of real world knowledge, I'm an active participant in bringing our industry forward: I write a lot about agile publishing, digital publishing, development, and media production, not just here but also in well know magazines and journals. I'm a keynote speaker at conferences and do a lot of trainings and consulting work. Since I also know a thing or two about print publishing I'm involved in developing industry guidelines for PDFX-ready. I co-authored the book "Agile Publishing", still the 400 pages reference work on how agile processes move user experience and storytelling in the spotlight of todays multichannel world. 
+
+I'm living at the intersection of design, content, technology, marketing and consulting. How hypes can be moved into practical use is what drives me every day.
+
+----
+
+Speaking: 
+
+- 
+  name: >
+    Output from QuarkXPress 7, PDF/X and
+    done?
+  event: ""
+  year: "2006"
+  client: >
+    SMI School for media integration,
+    Switzerland
+  picture: ""
+  featured: "0"
+- 
+  name: >
+    Future lab Dynamic Publishing, Online
+    Screencasts
+  event: ""
+  year: "2010"
+  client: Beyond-print.de
+  picture: ""
+  featured: "0"
+- 
+  name: >
+    iPad publishing from QuarkXPress 8.5 and
+    9
+  event: ""
+  year: "2011"
+  client: >
+    SMI School for media integration,
+    Switzerland
+  picture: ""
+  featured: "0"
+- 
+  name: Dynamic Publishing
+  event: ""
+  year: "2011"
+  client: >
+    Trade Fair Druck+Form, Association of
+    the Swiss Printing Industry (VSD),
+    MüllerDitzen AG and Duale Hochschule
+    Baden-Würtenberg Mannheim
+  picture: ""
+  featured: "0"
+- 
+  name: The new PDFX-ready guidelines
+  event: ""
+  year: "2011"
+  client: >
+    Association of the Swiss Printing
+    Industry (VSD), InDesign User Group
+    Munich, InDesign User Group Stuttgart
+    and Swiss Publishing Week
+  picture: ""
+  featured: "0"
+- 
+  name: Digital Publishing with Quark App Studio
+  event: Digital Publishing Summit
+  year: "2013"
+  client: >
+    Fogra Research Institute for Media
+    Technologies
+  picture: ""
+  featured: "0"
+- 
+  name: >
+    Color Management Workflow from an Agency
+    Perspective
+  event: Colour Management Symposium
+  year: "2014"
+  client: >
+    Fogra Research Institute for Media
+    Technologies
+  picture: ""
+  featured: "0"
+- 
+  name: Agile Publishing
+  event: ""
+  year: "2014"
+  client: 'Print and Media Association Bavaria (VDMB), Alliance of German designers (AGD), InDesign User Group Stuttgart, InDesign User Group Munich,  publishingNETWORK and Swiss Publishing Days'
+  picture: ""
+  featured: "0"
+- 
+  name: Story First
+  event: GC Executive Symposium
+  year: "2014"
+  client: GC Graphic Consult
+  picture: gc-symposium.jpg
+  featured: "1"
+- 
+  name: The exponential age of marketing
+  event: ""
+  year: "2014"
+  client: 'Brunner AG and ADVERMA Advertising & Marketing'
+  picture: ""
+  featured: "0"
+- 
+  name: 'Digital anomalies - magazines between print and pad'
+  event: Bookmarks Conference
+  year: "2014"
+  client: >
+    Typographic Society Munich (TGM) and
+    Mediacampus Frankfurt
+  picture: ""
+  featured: "0"
+- 
+  name: Agile Publishing
+  event: PUBKON Conference
+  year: "2014"
+  client: PUBKON
+  picture: pubkon.jpg
+  featured: "1"
+- 
+  name: Publishing between print and pad
+  event: Swiss Publishing Days
+  year: "2014"
+  client: Swiss Publishing Days
+  picture: swiss-publishing-days-2014.jpg
+  featured: "1"
+- 
+  name: Agile Publishing
+  event: a tour of talks trough Germany
+  year: "2014"
+  client: >
+    Professional Association of German
+    Communication Designers (BDG)
+  picture: bdg-tour.jpg
+  featured: "1"
+- 
+  name: Trainer for Crossmedia, ongoing
+  event: >
+    IHK Education of Media Business
+    Administrators
+  year: "2014"
+  client: >
+    Print and Media Association Bavaria
+    (VDMB)
+  picture: ""
+  featured: "0"
+- 
+  name: Agile Publishing
+  event: Corporate Publishing Executive Day
+  year: "2014"
+  client: content marketing forum
+  picture: ""
+  featured: "0"
+- 
+  name: Teamwork of Designers and Developers
+  event: ""
+  year: "2014"
+  client: Typographic Society Munich (TGM)
+  picture: ""
+  featured: "0"
+- 
+  name: Thinking for Responsive Design
+  event: Swiss Publishing Days
+  year: "2015"
+  client: Swiss Publishing Days
+  picture: swiss-publishing-days-2015.jpg
+  featured: "1"
+- 
+  name: 'Virtual & Augmented Reality'
+  event: ""
+  year: "2016"
+  client: Typographic Society Munich (TGM)
+  picture: ""
+  featured: "0"
+- 
+  name: >
+    Do we find the future of the layout in
+    the layout application?
+  event: Swiss Publishing Days
+  year: "2016"
+  client: Swiss Publishing Days
+  picture: swiss-publishing-days-2016.jpg
+  featured: "1"
+- 
+  name: Just make it responsive
+  event: ""
+  year: "2017"
+  client: Typographic Society Munich (TGM)
+  picture: ""
+  featured: "0"
+- 
+  name: Siri, are you gonna do the layout?
+  event: Swiss Publishing Days
+  year: "2017"
+  client: Swiss Publishing Days
+  picture: swiss-publishing-days-2017.jpg
+  featured: "1"
+- 
+  name: >
+    Chat bots and the design of the
+    conversational flow
+  event: ""
+  year: "2017"
+  client: >
+    Typographic Society Munich (TGM) and
+    publishingNETWORK
+  picture: chat-bots.jpg
+  featured: "1"
+- 
+  name: >
+    Ingredients for successful responsive
+    webdesign
+  event: ""
+  year: "2018"
+  client: Typographic Society Munich (TGM)
+  picture: ""
+  featured: "0"
+
+----
+
+Publications: 
+
+- 
+  name: >
+    Various tipps and articles about PDF and
+    color management
+  year: Since 2006
+  client: PAGE
+  picture: ""
+  featured: "0"
+- 
+  name: Co-Author of Cleverprinting books
+  year: Since 2006
+  client: Cleverprinting
+  picture: ""
+  featured: "0"
+- 
+  name: >
+    Various articles about prepress and
+    editorial systems
+  year: Since 2007
+  client: Deutscher Drucker
+  picture: ""
+  featured: "0"
+- 
+  name: Co-Author PDFX-ready Guidelines
+  year: "2008"
+  client: PDFX-ready
+  picture: pdfx-ready-guideline.jpg
+  featured: "1"
+- 
+  name: >
+    Co-Author Color management in DTP
+    applications
+  year: "2008"
+  client: 'German Association Print & Media (BVDM)'
+  picture: ""
+  featured: "0"
+- 
+  name: The state of tablet publishing
+  year: "2011"
+  client: prokomREPORT
+  picture: ""
+  featured: "0"
+- 
+  name: Co-Author book Agile Publishing
+  year: "2013"
+  client: myself ;-)
+  picture: agile-publishing.jpg
+  featured: "1"
+- 
+  name: Agile thinking for a better publishing
+  year: "2013"
+  client: Publisher
+  picture: ""
+  featured: "0"
+- 
+  name: Video training Agile Publishing
+  year: "2015"
+  client: LinkedIn Learning
+  picture: video2brain-agile.jpg
+  featured: "1"
+- 
+  name: 4 Theses on the future of publishing
+  year: "2016"
+  client: Publisher
+  picture: publisher-4-theses.jpg
+  featured: "1"
+- 
+  name: Publishing goes gaseous
+  year: "2017"
+  client: Publisher
+  picture: publisher-conversational.jpg
+  featured: "1"
+- 
+  name: The learning machines are coming
+  year: "2018"
+  client: Publisher
+  picture: publisher-ai.jpg
+  featured: "1"
+
+----
+
+Profiles: 
+
+- 
+  name: E-Mail
+  link: mailto:info@georgobermayr.de
+- 
+  name: Twitter
+  link: https://twitter.com/georgobermayr
+- 
+  name: Xing
+  link: >
+    https://www.xing.com/profile/Georg_Obermayr
+  icon: bdg-tour.jpg
+- 
+  name: LinkedIn
+  link: >
+    https://www.linkedin.com/in/georgobermayr/
+- 
+  name: SlideShare
+  link: https://de.slideshare.net/obermayrgeorg

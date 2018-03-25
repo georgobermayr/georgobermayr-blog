@@ -10,21 +10,21 @@
   <?php endforeach ?>
 
   <?php $aboutPage = $site->find('about-georg-obermayr') ?>
-  <li>
+  <li <?php e($aboutPage->isOpen(), ' class="menuitem--active"') ?>>
     <a href="<?php echo $aboutPage->url() ?>">
       <?php echo $aboutPage->title() ?>
     </a>
   </li>
 
-  <?php $aboutPage = $site->find('book-agile-publishing') ?>
-  <li>
-    <a href="<?php echo $aboutPage->url() ?>">
-      <?php echo $aboutPage->title() ?>
+  <?php $bookPage = $site->find('book-agile-publishing') ?>
+  <li <?php e($bookPage->isOpen(), ' class="menuitem--active"') ?>>
+    <a href="<?php echo $bookPage->url() ?>">
+      <?php echo $bookPage->title() ?>
     </a>
   </li>
 
   <li class="menu__twitter">
-    <a href="https://twitter.com/georgobermayr" target="_blank">
+    <a href="https://twitter.com/georgobermayr" target="_blank" rel="noopener">
       <?php echo file_get_contents('assets/images/twitter.svg') ?>
     </a>
   </li>

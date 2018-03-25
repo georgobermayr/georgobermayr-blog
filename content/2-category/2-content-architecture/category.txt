@@ -10,7 +10,7 @@ Teaserheadline: How Smart can Content be?
 
 ----
 
-Teasertext: Content is not just some dumb text or picture. For todays digital experiences to work, content needs to be connect, structured and smart.
+Teasertext: Content is not just some dumb text or picture. For todays digital experiences to work, content needs to be connected, structured and smart.
 
 ----
 
