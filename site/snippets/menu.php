@@ -16,9 +16,11 @@
     </a>
   </li>
 
-  <?php $bookPage = $site->find('book-agile-publishing') ?>
+  <?php
+  // Leaving the book page as link instead of astorytelling page for now
+  $bookPage = $site->find('book-agile-publishing') ?>
   <li <?php e($bookPage->isOpen(), ' class="menuitem--active"') ?>>
-    <a href="<?php echo $bookPage->url() ?>">
+    <a href="http://www.agile-publishing.de/" target="_blank" rel="noopener">
       <?php echo $bookPage->title() ?>
     </a>
   </li>
