@@ -1,0 +1,106 @@
+Title: The learning robots are coming
+
+----
+
+Category: publishing-ai
+
+----
+
+Tags: machine learning,ai,artificial intelligence,typography,media production,layouts,image retouching,personalization,logo design,design,graphic design,creativity,ux
+
+----
+
+Essential: 1
+
+----
+
+Date: 2018-04-22
+
+----
+
+Infocontent: 
+
+----
+
+Excerpt: Artificial intelligence is about to change the workplace. And a lot more. Media production, used to change for years, is about to be disrupted again.
+
+----
+
+Text: 
+
+No matter which conference I attended over the last year, which talk I listened to or gave by myself: One topic always came up, whether you want or not: Of course, Artificial Intelligence (AI). No doubt, AI moves people. In all these discussions, two things stroke out for me: First, musing about the enormous importance AI poses to the society is something people like to do. However, that AI is not stopping at publishing and media production, and therefore directly affects our daily jobs, is something that’s not widely seen yet. Second, there is a lot of talk about risks and threats, as if it is already sure that machines are our new enemies and we will soon find ourselves in Terminator-like end fights. A sorrowful perspective—exactly this is not going to happen anytime soon. Truth to be told, a vast, positive, exploration space just opens. 
+
+What bothers me most in this whole debate: We have, once again, not even our terminology straight. Artificial Intelligence, this sounds like future, like science fiction. But this is just pretending. What is happening right now, is not a “new human”, no universal knowledge machine that will raise above mankind anytime soon. The stuff we are talking about right now is more mundane, and it has a different name: *Machine Learning.* 
+
+## What will change
+Machine Learning is a disruption from current, “classic” computer science. That’s the reason it is the most exciting thing happening right now around computers and digitalization. Software development today is a way of instructing the machine what it must do in a certain situation. There is an established tool kit for that, able to deal with a vast array of situations: If-clauses, loops, and many more. One rule always applies: The machine can only do what the developer, its “creator”, has determined. No matter how sophisticated everything is, at the end of the day an application, thought and built by humans, is executed. Never will the machine invent anything that extends the predefined procedures. 
+
+Machine Learning is a different beast—and this is where disruption happens. No one is telling the machine any more how to exactly solve a certain issue. A human only defines starting and target points. The rest is up to the machine to find out. Behind the scenes highly complex mathematical and statistical algorithms are working hard to find patterns in the given data—and to, in a multistage process, build predictions out of it. 
+
+Classic computer science is deterministic: Humans solve the issue, machines are executing it. Machine Learning however is not programmed: The machine is learning on its own how to solve the problem at hand. This problem-solving works in terms of strictly defined tasks. And this is where both approaches meet: In both cases a human is telling which task to solve. Even in Machine Learning the machine is only solving this one single task, not more. That’s quite the opposite to the way humans learn: The machine is not looking beyond the horizon of the current task; no consciousness is building up and no connections between other tasks are formed. Therefore “artificial intelligence” as a term is in so many ways wrong. Machine Learning systems are highly specialized one way streets. For certain tasks, they do it better, “smarter” than classic computer science does. Not more, and not less. 
+
+> How we build, create and design printed, digital and conversational media will change entirely.
+
+But, if we look at media production now, these “improvements” tempt me to say that every ingredient of a publishing product (text, images, typography, layout, …) will be produced totally different—thanks to Machine Learning. How we build, create and design printed, digital and conversational media will change entirely. Maybe it is the biggest disruption since desktop publishing. Let’s have a look at the research labs. 
+
+## A machine to pair fonts
+Which fonts pair nicely together? What harmonies are working? What font pairings make sense? On the one hand, you need the trained eye of a designer to answer these questions, on the other hand well defined and describable rule sets apply. There is a factor of taste, but craftsmanship prevails. A perfect task for Machine Learning: 
+
+1. Machine Learning is based on a vast set of data which the machine can use to derive rule sets. So, we need a massive repository of font pairings we can analyze. To get that kind of data we can build a crawler that scans the internet and parses web sites. On these web sites, we then look which fonts are being used. We don’t just look at the font names here, we mainly analyze the properties of the fonts: X-height, contrast, width and so on. 
+(image: font-pairing-with-ai.jpg caption: A crawler builds a model to predict font parings. Source: <a href="//fontjoy.com/projector" target="_blank">fontjoy.com/projector</a>)
+2. With that, we get a massive data set of font usage in real world designs. Plus, for each font we have meaningful metadata, describing their visual properties. Now we can start training our machine. A human designer has a session with a selection of the data (training data) and tells the machine repeatedly: This is a good font pairing, this is a bad one, this is a good one, … That way, the designer is training the machine (supervised learning). 
+3. After a few hundred of those trainings, the machine is capable to draw the connections between X-height, contrast, other metadata and a good font paring. The machine is starting to see the patterns behind the data and makes it first own derivations. At this point you can again compare Machine Learning to a classic computer science approach: A software developer would have written numerous if-then clauses that form a decision tree for the machine to execute. With Machine Learning, the machine realizes the pattern behind the data on its own—and finds different solutions to the initial problem than humans would. Plus: The machine is getting smarter and smarter the more data it gets. With that, the model gets more robust over time. 
+4. Now, something exiting happens: The machine is becoming capable to make its own predictions. We can confront it with new, unknown fonts and the machine will make its own suggestions for fonts that can be combined. 
+
+The question is, what will we as designers one day see from such a concept? I would say it could be a function like “Suggest matching font”, maybe in a layout application. Behind the scenes, Machine Learning is helping to suggest a font pairing based on the other fonts in the layout. A basic, yet convenient feature. A small detail that could be better solved with Machine Learning than with classic if-then clauses. 
+
+For the designer, the consequences are far reaching. Until now, a lot of trial & error needed to be done to find a suitable font combination. Lengthy, time consuming, manual processes. Instead, with such a feature, we could arrive at better results more easily and faster. I’m sure we will see something like this soon in our design tools. 
+
+## A layout robot
+We know this trial & error too from the creation of layouts. Ongoing variants, dragging around, scaling, resizing, drawing, coloring, … Sure, this is what defines our work. But this doesn’t mean, that there is no better way. In cooperation with Adobe the University of Toronto has done a research study called *DesignScape.* Here, the designer is working on a new layout like he used to do, creating elements, adding content, dragging them around. While this happens, the system is constantly calculating alternative suggestions: Alternative arrangements, changed proportions and even completely different layout ideas. The designer can not only review these suggestions, he can also accept them and can continue his work based on them. 
+(image: DesignScape-layout-automation.jpg caption: DesigScape is busy calculating alternative suggestions for the layout. Source: <a href="//www.dgp.toronto.edu/~donovan/design" target="_blank">www.dgp.toronto.edu/~donovan/design</a>)
+Again, this shortens the feedback loop between machine and human. The machine helps to achieve the goal faster and more efficient while reducing the trial & error. Of course, there is a risk to disempower the human designer—something the researchers are aware of. But if you look at the core competence of each good designer, you soon realize it is exactly this “reviewing and assessing” that gets a lot more space in this workflow, while the more “stupid” dragging of boxes is more and more fading out. The cool thing happening with Machine Learning here is its growing understanding of our taste. The more layouts we build with such a tool, the more targeted and better the suggestions we get will be. 
+
+## Fun with images
+Fonts, layouts, cool stuff. But the real fun with Machine Learning starts when it comes to images. This is where most of the research is done. And this is where the underlying technology of pattern recognition and prediction works best. A couple of examples:
+- With a *photo-style-transfer* you take an input photo and look for the desired photo style in another image. The rest is done by the system: The Machine Learning system analyzes the style-building elements and transfers them. While doing that, it takes care that each element of the image is altered in a realistic way. 
+(image: photo-style-transfer.jpg caption: left to right: original, desired photo style, result. Source: <a href="//www.cs.cornell.edu/~fujun/files/style-cvpr17/style-cvpr17.html" target="_blank">www.cs.cornell.edu/~fujun/files/style-cvpr17/style-cvpr17.html</a>)
+- The same happens when *transferring weather or time conditions* between images. This way day becomes night, rain becomes sun or summer becomes winter. 
+(image: image-manipulation.jpg caption: Source: <a href="//research.nvidia.com/publication/2017-12_Unsupervised-Image-to-Image-Translation" target="_blank">research.nvidia.com/publication/2017-12_Unsupervised-Image-to-Image-Translation</a>)
+- In a project to *create clipping masks,* the user just paints the transition regions between the to be clipped foreground object and the background (this painting is called Trimap). The Machine Learning system is trained for typical pixel structures in these transition regions. Based on that an alpha mask is generated. 
+(image: image-masking.jpg caption: left to right: original, transition regions painted by the user, benchmark, final mask. Source: <a href="//arxiv.org/pdf/1703.03872.pdf" target="_blank">arxiv.org/pdf/1703.03872.pdf</a>)
+- A project like *Smile Vector* looks funny at first: It takes images with people and makes them laugh. Behind the scenes a polished, trained understanding of the human face is at work. Not just the mouth is adjusted, the whole facial appearance changes ((link: //twitter.com/smilevector text: twitter.com/smilevector target: _blank)). 
+- This gets even more complex when you look at an example that produces *fake videos based on audio recordings.* This way a speech of former US president Barack Obama is literally put into his mouth. Machine Learning is mapping the words from the audio file to suitable mouth shapes—and produces a video from it ((link: //grail.cs.washington.edu/projects/AudioToObama text: grail.cs.washington.edu/projects/AudioToObama target: _blank)). 
+- These systems are based on a deep understand of the content of an image. We can apply this to another area as well: *image tagging.* There are already production-ready systems, for example by Google or Amazon, that parse images and return an appropriate set of metadata. These metadata not only contain objects, places, sights or sentiments of faces but also celebrities that are on the image. 
+(image: google-metadata-image-tagging.jpg caption: Source: <a href="//cloud.google.com/vision" target="_blank">cloud.google.com/vision</a>)
+
+The image retouching of the future not only frees us from boring tagging tasks, it will also speed up complex retouching or grading projects. Again, increasing efficiency is key here, reviewing and deciding “something is good now” becomes more and more important, clicking and drawing around is something that is done increasingly by the machines. 
+
+## The best experience for each user
+There would be a lot more examples to talk about, also from the text area, where bots moderate comments, tag articles or even write articles on their own. As amazing as all these examples are, they just show how existing workflows get more efficient. It will be far more interesting to see, which applications will be newly enabled by Machine Learning. Without a doubt one of these areas is personalization. Unthinkable in the times of mass media, digital media are more and more becoming an experience tailor-suited for every single user. 
+
+Netflix gives a good example on how far this can already go: Of course, Netflix is personalizing the entire platform and, most important, its recommendations. But even the artworks for each title are now personalized. Depending on the preferences of the single user (be it a genre or single actors for instance) the most suitable artwork is selected. Driven by Machine Learning, this algorithm will become better and better over time. 
+(image: Netflix-personalization.jpg caption: Source: <a href="//medium.com/netflix-techblog/artwork-personalization-c589f074ad76" target="_blank">medium.com/netflix-techblog/artwork-personalization-c589f074ad76</a>)
+
+## Where does all this end?
+If you look at the current state of research projects, and what is possible already, and if you start thinking on what might be possible in the upcoming years, you soon arrive at the thought, that machines will soon be able to do everything. You might come up with dystopian predictions about the future role of a designer in all of this. Therefore, one last example, to set the record straight: Logojoy.com wants to reinvent logo design with the tools of Machine Learning. The user is entering a name, selects some nice colors, and picks examples of other logos he likes. With that, again, the machine is creating patterns and tries to predict: If the user likes A, then there is a probability he likes also B. And, voilà, there you have a set of possible logo creations. 
+
+(image: Logojoy-design.jpg caption: The moment machines become creative … you realize, what Machine Learning ist not. Source: <a href="//logojoy.com" target="_blank">logojoy.com</a>)
+
+So, do you like it? If my opinion counts anything, I would call out load: No, no and again no! The designs are uninspired, repetitive and predictable. Designing a logo is only to a small percentage a work of craftsmanship, that’s why it is so difficult for the machine with all its patterns and predictions. What’s missing is creativity, the ability for self-reflection, the deliberate rule break and the inspiration that forms a good design. The limits of Machine Learning are becoming visible: Creativity needs consciousness, nothing the machine, this highly specialized one way street is having. 
+
+Take a deep breath. This sounds calming. But it is not, quite the opposite. The times, in which we fully command the machines are over. We are entering an era in which machines are becoming an equal partner of humans in the work place. The new team works hand in hand. This new era, the era of algorithms, will drag us out of the comfort zone. It will force us to get to know new technologies and techniques that far exceed classic computer science and that will help us configure the new Machine Learning systems. And, it will force us to reinvent our ability for true creativity. Too much of that got lost in the last years over pure tooling know-how and getting tasks done. Too much of that we neglected in the every-day trade of time, costs and convenience. In the team human-machine we will be responsible for creativity, conciseness, rule breaking and empathy. Machines won’t do that, the rest they will. I like that.
+
+*The German original of this article appeared first in the Swiss magazine “Publisher” with the headline “Die lernenden Roboter kommen”.*
+
+----
+
+Infoseo: 
+
+----
+
+Seotitle: What Machine Learning means to publishing & media production
+
+----
+
+Seodescription: Media production is about to be disrupted by Machine Learning and Artificial Intelligence. What does this mean for creativity, image retouching and typography?
