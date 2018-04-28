@@ -65,7 +65,10 @@
     width: 100%;
 
     @include breakpoint($breakpoint-md) {
-      grid-column: 1 / 7;
+      grid-column: 1 / 6;
+
+      position: sticky;
+      top: 2rem;
 
       padding-left: 2rem;
       padding-right: 2rem;
@@ -77,7 +80,7 @@
     margin-top: 3rem;
 
     @include breakpoint($breakpoint-md) {
-      grid-column: 7 / 20;
+      grid-column: 6 / 17;
       margin-top: 6rem;
     }
 

@@ -104,7 +104,11 @@
   display: grid;
   grid-template-columns: repeat( 24, 1fr );
 
-  margin-bottom: $font-size-large + 4rem;
+  margin-bottom: $font-size-medium;
+
+  @include breakpoint($breakpoint-md) {
+    margin-bottom: $font-size-large + 4rem;
+  }
 
   & > h1 {
     grid-column: 2 / 20;
@@ -112,7 +116,7 @@
     font-size: $font-size-large * 0.5;
 
     @include breakpoint($breakpoint-md) {
-      grid-column: 6 / 21;
+      grid-column: 6 / 20;
       margin-bottom: - $font-size-large;
       font-size: $font-size-large;
     }

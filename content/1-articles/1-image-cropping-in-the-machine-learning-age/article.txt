@@ -1,0 +1,55 @@
+Title: Image cropping in the machine learning age
+
+----
+
+Category: publishing-ai
+
+----
+
+Tags: machine learning,ai,image cropping,media production,image retouching,image recognition,face detection
+
+----
+
+Essential: 0
+
+----
+
+Date: 2018-04-28
+
+----
+
+Infocontent: 
+
+----
+
+Excerpt: Image cropping has increasingly become a pain in the ass. With content flowing more freely in the web and on different brand platforms like apps or social media more and more crops of the same image are needed. Can machine learning help?
+
+----
+
+Text: 
+
+Image cropping has increasingly become a pain in the ass. With content flowing more freely in the web and on different brand platforms like apps or social media more and more crops of the same image are needed. Even if you just think of a website you often need half a dozen or more different crop renditions of an image. Currently there are two technologies to crop images automatically:
+
+- Using simple cropping functions, like in ImageMagick. These techniques mostly just crop from the center (or another gravity of you implement it that way) and they don’t care about the content of the image at all. 
+- More advanced algorithms, like the one used for instance in (link: https://cloudinary.com/ text: Cloudinary), use face detection. They try to detect faces in images and use this as gravity for the crop. This requires simple image recognition algorithms that have been around for a while and are not involving any machine learning. While this is certainly better, face detection often falls short: Faces are missed by the detection, objects are detected as faces that aren’t and if an image has no faces at all it could lead to weird results. Also, some images have faces but they aren’t necessarily the most important part of the image.
+
+There is clearly a lot for room of improvement here. Twitter is rolling out a new cropping algorithm powered by machine learning. This is based on getting to get the most salient region of an image. There has been a lot of research on this, academics did eye tracking studies to understand which parts of an image humans fixate when looking at it. Mostly this seem to be faces, text, animals, objects and regions of high contrast. Based on that insights a neural network can be trained to find the salient region—and center the crop around it.
+
+Twitter has now developed these algorithms further to use them with high performance in a large-scale production situation. The results are stunning and show the clear advantages of this approach. 
+
+(image: fig3-before.png.img.fullhd.medium.png caption: Images cropped with the old logic …)
+(image: fig3-after.png.img.fullhd.medium.png caption: … and with the new one powered by machine learning. Source and more about the research: <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/Smart-Auto-Cropping-of-Images.html" target="_blank">blog.twitter.com</a>)
+
+I think the possibilities are endless: From automatic crops in all kinds of digital media but also in print layouts. Imagine you could just size a frame (by a layout application box, CSS or just proportions), assign an image to it and it is automatically cropped in the best way possible. I hope to see this very soon in print applications, digital infrastructure and DAM systems.
+
+----
+
+Infoseo: 
+
+----
+
+Seotitle: Image cropping in the machine learning age
+
+----
+
+Seodescription: Image cropping is a pain in the ass. Learn about machine learning approaches, pioneered by Twitter, to simply the process while massively increasing quality.
