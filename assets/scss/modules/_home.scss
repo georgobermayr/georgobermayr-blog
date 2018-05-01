@@ -91,7 +91,7 @@
       font-size: $font-size-large * 0.5;
 
       @include breakpoint($breakpoint-md) {
-        font-size: $font-size-large;
+        font-size: $font-size-large * 0.75;
       }
     }
 

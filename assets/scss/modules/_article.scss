@@ -115,6 +115,8 @@
     margin-bottom: - $font-size-large * 0.5;
     font-size: $font-size-large * 0.5;
 
+    hyphens: auto;
+
     @include breakpoint($breakpoint-md) {
       grid-column: 6 / 20;
       margin-bottom: - $font-size-large;

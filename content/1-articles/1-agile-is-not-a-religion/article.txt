@@ -1,0 +1,64 @@
+Title: Agile is not a religion
+
+----
+
+Category: agile-publishing
+
+----
+
+Tags: agile,agile publishing,scrum,design thinking,user experience design,collaboration
+
+----
+
+Essential: 1
+
+----
+
+Date: 2018-04-22
+
+----
+
+Infocontent: 
+
+----
+
+Excerpt: Many people use Agile as a shield. “We can’t do that because it is not written in the book of Scrum.” This is at least as dangerous and harmful as not adopting Agile at all. Agile is toolkit that should help you in your daily projects. How?
+
+----
+
+Text: 
+
+People love rules. Even when we encounter something new. So, when we first meet new methods and frameworks like “Agile”, “Scrum” or “Design Thinking” we often see a set of rules that can guide us during adoption. That’s fine and very human: How else would we learn something new than by sticking to the guidelines? 
+
+This is where the trouble usually starts. Companies, often decades-long trained in following hierarchies and orders suddenly want to adopt frameworks that are driven by rule-breaking and anti-hierarchy. To do so, they start to learn new rules and new hierarchies … See, were the problem could be? 
+
+Some of my conversations and consulting projects about adopting agile start with people that have read our book “Agile Publishing” and now have questions: 
+- Can Scrum Master and Product Owner be the same person?
+- Who is the manager of the team?
+- Can there be multiple Product Owners?
+- Who is talking with the client? No longer the consultant?
+- What about part time colleagues? 
+
+And many more. Make no mistake: These questions are important, and at some point, when things get practical, you need to face them. But neither are these the questions to kick-off the process nor are these the issues where it fails. 
+
+Agile is a different beast: It’s based on a user-centric view, it’s driven by collaboration across all departments and it says that nothing is ever finished. These are the core values that need to be baked into the company culture. You can talk about Product Owners or Backlogs all day—if your mindset is not “Agile”, you are going to fail terribly. Many companies today are manager-centric, with departments in the trenches and an attitude to “finish off” projects. Great values if you are in classic manufacturing processes—but for digitalization Agile is better. But where to start?
+
+>I’m a huge advocate of something I call “Pragmatic Agility”.
+
+First thing is to drop the religion. Many people use Agile as a shield. “We can’t do that because it is not written in the book of Scrum.” This is at least as dangerous and harmful as not adopting Agile at all. I’m a huge advocate of something I call “Pragmatic Agility”. For me Agile is a toolkit, some things you can use, others not. Use the things that make sense and skip the rest. You don’t have to use the entire Scrum toolkit if it is not necessary. 
+
+In fact, this is the only way. When adopting a process that is based on “never finished”, why should its adoption ever be finished? There is no point where you can say, “okay, I’m Agile now, that’s it.” Not going to happen. It is an ongoing process to change the culture, the attitude and to improve the methods you use in your projects.
+
+So, my advice: Read the books about Agile (you can also read mine). Learn the terminologies and methods. Put them in your toolkit. When the next project is knocking on the door, look in your toolkit and use what makes sense. Establish confidence. Gradually use more form your toolkit and keep adding and removing methods. Keep your toolkit as fluid as your projects. You are not a monk in the Church of Agile. There is no wrong or right. There will be a time, when Agile is no longer a thing. It’s just one of the things you do to be successful.
+
+----
+
+Infoseo: 
+
+----
+
+Seotitle: Don't use Agile as a shield, use it as a smart toolkit
+
+----
+
+Seodescription: Many people use Agile as a shield. This is at least as dangerous as not adopting Agile at all. Agile is toolkit that should help in your daily projects. How?
