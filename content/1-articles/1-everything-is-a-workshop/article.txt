@@ -1,0 +1,55 @@
+Title: Everything is a workshop
+
+----
+
+Category: agile-publishing
+
+----
+
+Tags: agile,agile publishing,ux,user experience,user experience design,workshop tools,collaboration,scrum,design thinking,design,content strategy
+
+----
+
+Essential: 0
+
+----
+
+Date: 2018-04-30
+
+----
+
+Infocontent: 
+
+----
+
+Excerpt: Workshops are in my opinion the single most important thing to master not just the digital transformation and adopt agile processes, but also to change the agency-client relationship. Why?
+
+----
+
+Text: 
+
+At first I didn’t realize it: Over the years I’ve become a workshop expert. I learned a lot about moderating a workshop, about asking the right questions, about Post-its and flip charts, about listening and about finding ideas in a group. I didn’t plan this, it just happened on my journey of understanding “how to do things” in digital media. What I understand now is that workshops are in my opinion the single most important thing to master not just the digital transformation and adopt agile processes, but also to change the supplier-client relationship. Why?
+
+Doing a workshop is one of the first things that usually comes to my mind, when a new client approaches or a new project is discussed. “That’s fine, let’s do a workshop”, I often say. Many times, clients just want to handover their requirements and hopefully only hear from the project again when it’s finished. But for digital media, this approach is not working. Digital media is a constant process of refinement, of iterating again and again. It is also never finished. It is very difficult for an agency to make bold decisions or to propose radical changes from the distance. This is where a workshop comes into play. 
+
+When I suggest doing a workshop, I seldom hear a “no”. In fact, not many agencies are even suggesting this, so it is a smart thing to do to stand out from the competition. But this is just marketing—a lot of CEOs have already heard about methods like “design thinking” and are curious to find out more. Plus, almost all companies are in the process of tackling digital transformation and think that an agency is more fresh and innovative than they are. (In an ideal world, they should be right, shouldn’t they? ;-) They want to learn from us and maybe adopt some of the things from the workshop in their own change process. 
+
+>Workshops release the agency form the pressure of having the “magic idea”.
+
+The other thing I like so much about workshops: They release the agency form the pressure of having the “magic idea”. Creativity is a process. Some designers don’t wanna hear this, but creativity is not about the solitary genius having THE world-changing idea and forcing it on the rest of the team. Also, most of these “amazing” ideas fail when implementation starts. Because the client is not on board, is not able to sell it internally or just can’t follow the thought process. At the end everybody is unhappy, the agency has done another boring product and the client goes shopping for a fresher approach. 
+
+Again, workshops to the rescue. Use a workshop to develop creative ideas and to sharpen concepts. This happens collaboratively, client and agency are at the same table. It doesn’t matter, who had an idea, what matters is that everyone is on board and feels the ownership. The best thing that could happen to an agency is that a progressive idea is born in a workshop, the client thinks it was his and is now full steam ahead in bringing it to life. There are a lot of great workshop methods for this, to have everyone develop ideas and to ground those ideas into real end user benefits. With that I’ve often seen “magic” happening in a workshop, ideas flow freely and everyone arrives at something not thinkable before. This hardly ever happens, when the “black box agency” presents its ideas and hopes the client “likes” it. 
+
+Something else also happens, probably most important: I never heard a client say, “you didn’t have the idea in the workshop, why are you even getting money from me?”. Instead of being a supplier, reduced to delivering “ideas”, the agency becomes a partner. With a seat on the table. A sparring partner, someone to discuss issues that have a far broader reach than just marketing. A workshop is a vehicle to have an ongoing deep conversation with the client. Everyone is dreaming about moving from being a supplier to being a partner. With workshops this is happening. Of course, this means getting your hands dirty. You must understand the clients business, become a subject matter expert. With some clients, I know as much about their business as they do. That’s not easy. But it’s interesting. It’s one of the great privileges of our job, to learn and understand new things on a constant basis. Clients recognize this effort. Trust is being built upon it. Thats why I can’t wait for the next time I pack my Post-its and get to paint some flip charts.
+
+----
+
+Infoseo: 
+
+----
+
+Seotitle: In agency-client relationship, everything is a workshop
+
+----
+
+Seodescription: Workshops are the most important thing to master digital transformation and adopt agile processes, but also to change the agency-client relationship. Why?

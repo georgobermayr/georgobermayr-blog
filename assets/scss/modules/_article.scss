@@ -21,7 +21,8 @@
 
   & > p,
   & > ul,
-  & > ol {
+  & > ol,
+  figcaption {
     line-height: 1.5;
     margin-bottom: $font-size-normal;
     font-size: $font-size-normal * 0.8;
@@ -45,7 +46,7 @@
 
     &::before {
       content: "—";
-      margin-right: 1rem;
+      margin-right: 1.5rem;
     }
   }
 
@@ -57,11 +58,14 @@
   figure {
     grid-column: 2 / 24;
 
-    margin-top: 5rem;
-    margin-bottom: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 
     @include breakpoint($breakpoint-md) {
       grid-column: 5 / 20;
+
+      margin-top: 5rem;
+      margin-bottom: 5rem;
     }
   }
 
