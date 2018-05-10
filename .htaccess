@@ -104,7 +104,6 @@ FileETag None
 
 # Permanent URL redirects
 RewriteEngine on
-Redirect 301 / https://www.georgobermayr.com/
 Redirect 301 /uber-georg-obermayr https://www.georgobermayr.com/about-georg-obermayr
 Redirect 301 /is-lorem-ipsum-really-evil https://www.georgobermayr.com/articles/is-lorem-ipsum-really-evil
 Redirect 301 /the-future-of-media-production https://www.georgobermayr.com/articles/the-future-of-media-production
