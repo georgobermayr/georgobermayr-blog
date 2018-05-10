@@ -2,7 +2,7 @@ Title: Privacy Policy
 
 ----
 
-Text: 
+Text:
 
 <h1>Daten&shy;schutz&shy;erkl&auml;rung</h1> <h2>Server-Log-Files</h2> <p>Der Provider der Seiten erhebt
 und speichert automatisch Informationen in so genannten Server-Log Files, die Ihr Browser automatisch
@@ -11,11 +11,7 @@ Betriebssystem</li> <li>Referrer URL</li> <li>Hostname des zugreifenden Rechners
 Serveranfrage</li> </ul> <p>Diese Daten sind nicht bestimmten Personen zuordenbar. Eine
 Zusammenf&uuml;hrung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Wir behalten
 uns vor, diese Daten nachtr&auml;glich zu pr&uuml;fen, wenn uns konkrete Anhaltspunkte f&uuml;r eine
-rechtswidrige Nutzung bekannt werden.</p><p>&nbsp;</p> 
-<h2>Google Webfonts</h2>
-<p>Diese Seite verwendet zur Darstellung der Schrift sogenannte Webfonts. Diese werden von Google bereitgestellt (http://www.google.com/webfonts/). Dazu lädt beim aufrufen unserer Seite ihr Browser die benötigte Webfont in ihren Browsercache. Dies ist notwendig damit auch ihr Browser eine optisch verbesserte Darstellung unserer Texte anzeigen kann. Wenn ihr Browser diese Funktion nicht unterstützt, wird eine Standardschrift von ihrem Computer zur Anzeige genutzt.</p>
-<p>Weitergehende Informationen zu Google Webfonts finden sie unter https://developers.google.com/fonts/faq?hl=de-DE&csw=1</p>
-<p>Allgemeine Informationen zum Thema Datenschutz bei Google finden sie unter http://www.google.com/intl/de-DE/policies/privacy/</p><p>&nbsp;</p>
+rechtswidrige Nutzung bekannt werden.</p><p>&nbsp;</p>
 <h2>SSL-Verschl&uuml;sselung</h2> <p>Diese Seite nutzt aus
 Gr&uuml;nden der Sicherheit und zum Schutz der &Uuml;bertragung vertraulicher Inhalte, wie zum
 Beispiel der Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-Verschl&uuml;sselung. Eine

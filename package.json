@@ -52,6 +52,6 @@
   "browserslist": [
     "last 2 versions",
     "> 5%",
-    "IE 10"
+    "IE 11"
   ]
 }

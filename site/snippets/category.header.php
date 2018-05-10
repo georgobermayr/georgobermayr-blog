@@ -10,8 +10,8 @@
     </p>
   </div>
 
-  <img
-    src="<?php echo $page->file('icon.svg')->url() ?>"
-    alt="<?php echo $page->title() ?>">
+  <div class="category__header_iconWrapper">
+    <?php echo $page->file('icon.svg')->content() ?>
+  </div>
 
 </div>

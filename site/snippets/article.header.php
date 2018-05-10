@@ -8,8 +8,10 @@
      <?php echo $page->title() ?>
   </h1>
 
-  <img
-    src="<?php echo url('/assets/images/georg-obermayr.jpg') ?>"
-    alt="Georg Obermayr">
+  <div class="article__header_imageWrapper">
+    <img
+      src="<?php echo url('/assets/images/georg-obermayr.jpg') ?>"
+      alt="Georg Obermayr">
+  </div>
 
 </div>

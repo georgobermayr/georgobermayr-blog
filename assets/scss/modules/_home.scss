@@ -3,6 +3,8 @@
   display: grid;
   grid-template-columns: repeat( 24, 1fr );
 
+  position: relative;
+
   padding-top: 3rem;
   margin-bottom: 11.5rem;
 
@@ -16,7 +18,7 @@
     margin-top: 5rem;
     margin-bottom: -11.5rem;
 
-    font-size: $font-size-normal * 0.75;
+    font-size: $font-size-normal * 0.8;
     line-height: 1.2;
     color: $black;
 
@@ -36,13 +38,17 @@
     }
   }
 
-  & > img {
+  .home__header__imageWrapper {
     grid-column: 21 / 25;
     position: absolute;
     bottom: 0;
+    display: inline-grid;
 
     @include breakpoint($breakpoint-md) {
       grid-column-start: 16;
+    }
+
+    .home__header__image {
       max-height: 45rem;
     }
   }

@@ -34,7 +34,7 @@
       font-family: $font-family-sans;
       font-weight: $font-weight-bold;
       line-height: 1.2;
-      font-size: $font-size-normal * 0.75;
+      font-size: $font-size-normal * 0.8;
 
       @include breakpoint($breakpoint-md) {
         font-size: unset;
@@ -51,16 +51,27 @@
     }
   }
 
-  & > img {
+  & > .category__header_iconWrapper {
     grid-column: 20 / 25;
-    width: 100%;
     margin-top: 2.5rem;
+    display: inline-grid;
+
+    overflow: hidden;
 
     @include breakpoint($breakpoint-md) {
-      grid-column-start: 15;
+      grid-column-start: 17;
       position: absolute;
       bottom: 0;
-      max-height: 45rem;
+    }
+
+    svg {
+      width: 100%;
+      height: auto;
+
+      @include breakpoint($breakpoint-md) {
+        width: auto;
+        height: 45rem;
+      }
     }
   }
 }

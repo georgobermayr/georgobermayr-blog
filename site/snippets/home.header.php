@@ -4,8 +4,11 @@
     <?php echo $page->intro() ?>
   </h1>
 
-  <img
-    src="<?php echo url('/assets/images/georg-obermayr.jpg') ?>"
-    alt="Georg Obermayr">
+  <div class="home__header__imageWrapper">
+    <img
+      class="home__header__image"
+      src="<?php echo url('/assets/images/georg-obermayr.jpg') ?>"
+      alt="Georg Obermayr">
+  </div>
 
 </div>
