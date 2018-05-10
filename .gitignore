@@ -5,9 +5,6 @@ Icon
 
 *.map
 
-assets/**/*.css
-assets/js/**/*.min.js
-
 /thumbs/*
 !/thumbs/index.html
 
