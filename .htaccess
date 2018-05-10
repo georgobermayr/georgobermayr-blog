@@ -7,6 +7,20 @@
 # http://yourdomain.com/about-us/team
 RewriteEngine on
 
+# make sure to set the RewriteBase correctly
+# if you are running the site in a subfolder.
+# Otherwise links or the entire site will break.
+#
+# If your homepage is http://yourdomain.com/mysite
+# Set the RewriteBase to:
+#
+# RewriteBase /mysite
+
+# In some enviroments it's necessary to
+# set the RewriteBase to:
+#
+RewriteBase /
+
 # Permanent URL redirects
 Redirect 301 ^/uber-georg-obermayr https://georgobermayr.com/about-georg-obermayr
 Redirect 301 ^/is-lorem-ipsum-really-evil https://georgobermayr.com/articles/is-lorem-ipsum-really-evil
@@ -115,20 +129,6 @@ Redirect 301 ^/category/printproduction/colormanagement https://georgobermayr.co
 Redirect 301 ^/category/printproduction/pdfx https://georgobermayr.com/category/multichannel-technology
 Redirect 301 ^/category/storytelling https://georgobermayr.com/category/content-architecture
 Redirect 301 ^/category/userexperiencedesign https://georgobermayr.com/category/content-architecture
-
-# make sure to set the RewriteBase correctly
-# if you are running the site in a subfolder.
-# Otherwise links or the entire site will break.
-#
-# If your homepage is http://yourdomain.com/mysite
-# Set the RewriteBase to:
-#
-# RewriteBase /mysite
-
-# In some enviroments it's necessary to
-# set the RewriteBase to:
-#
-RewriteBase /
 
 # block text files in the content folder from being accessed directly
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
