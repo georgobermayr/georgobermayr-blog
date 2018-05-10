@@ -3,8 +3,6 @@ Icon
 
 .stylelintcache/*
 
-*.map
-
 /thumbs/*
 !/thumbs/index.html
 
