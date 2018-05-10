@@ -5,5 +5,82 @@
  *
  */
 
+/* alegreya-regular - latin */
+@font-face {
+  font-family: Alegreya;
+  font-style: normal;
+  font-weight: 400;
+  src: url( "../fonts/alegreya-v10-latin-regular.eot" ); /* IE9 Compat Modes */
+  src:
+    local( "Alegreya Regular" ),
+    local( "Alegreya-Regular" ),
+    url( "../fonts/alegreya-v10-latin-regular.eot?#iefix" ) format( "embedded-opentype" ),
+    url( "../fonts/alegreya-v10-latin-regular.woff2" ) format( "woff2" ),
+    url( "../fonts/alegreya-v10-latin-regular.woff" ) format( "woff" ),
+    url( "../fonts/alegreya-v10-latin-regular.ttf" ) format( "truetype" ),
+    url( "../fonts/alegreya-v10-latin-regular.svg#Alegreya" ) format( "svg" );
+}
 
-@import url("https://fonts.googleapis.com/css?family=Alegreya:400,400i,900|Raleway:500,900");
+/* alegreya-italic - latin */
+@font-face {
+  font-family: Alegreya;
+  font-style: italic;
+  font-weight: 400;
+  src: url( "../fonts/alegreya-v10-latin-italic.eot" ); /* IE9 Compat Modes */
+  src:
+    local( "Alegreya Italic" ),
+    local( "Alegreya-Italic" ),
+    url( "../fonts/alegreya-v10-latin-italic.eot?#iefix" ) format( "embedded-opentype" ),
+    url( "../fonts/alegreya-v10-latin-italic.woff2" ) format( "woff2" ),
+    url( "../fonts/alegreya-v10-latin-italic.woff" ) format( "woff" ),
+    url( "../fonts/alegreya-v10-latin-italic.ttf" ) format( "truetype" ),
+    url( "../fonts/alegreya-v10-latin-italic.svg#Alegreya" ) format( "svg" );
+}
+
+/* alegreya-900 - latin */
+@font-face {
+  font-family: Alegreya;
+  font-style: normal;
+  font-weight: 900;
+  src: url( "../fonts/alegreya-v10-latin-900.eot" ); /* IE9 Compat Modes */
+  src:
+    local( "Alegreya Black" ),
+    local( "Alegreya-Black" ),
+    url( "../fonts/alegreya-v10-latin-900.eot?#iefix" ) format( "embedded-opentype" ),
+    url( "../fonts/alegreya-v10-latin-900.woff2" ) format( "woff2" ),
+    url( "../fonts/alegreya-v10-latin-900.woff" ) format( "woff" ),
+    url( "../fonts/alegreya-v10-latin-900.ttf" ) format( "truetype" ),
+    url( "../fonts/alegreya-v10-latin-900.svg#Alegreya" ) format( "svg" );
+}
+
+/* raleway-500 - latin */
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  src: url( "../fonts/raleway-v12-latin-500.eot" ); /* IE9 Compat Modes */
+  src:
+    local( "Raleway Medium" ),
+    local( "Raleway-Medium" ),
+    url( "../fonts/raleway-v12-latin-500.eot?#iefix" ) format( "embedded-opentype" ),
+    url( "../fonts/raleway-v12-latin-500.woff2" ) format( "woff2" ),
+    url( "../fonts/raleway-v12-latin-500.woff" ) format( "woff" ),
+    url( "../fonts/raleway-v12-latin-500.ttf" ) format( "truetype" ),
+    url( "../fonts/raleway-v12-latin-500.svg#Raleway" ) format( "svg" );
+}
+
+/* raleway-900 - latin */
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  src: url( "../fonts/raleway-v12-latin-900.eot" ); /* IE9 Compat Modes */
+  src:
+    local( "Raleway Black" ),
+    local( "Raleway-Black" ),
+    url( "../fonts/raleway-v12-latin-900.eot?#iefix" ) format( "embedded-opentype" ),
+    url( "../fonts/raleway-v12-latin-900.woff2" ) format( "woff2" ),
+    url( "../fonts/raleway-v12-latin-900.woff" ) format( "woff" ),
+    url( "../fonts/raleway-v12-latin-900.ttf" ) format( "truetype" ),
+    url( "../fonts/raleway-v12-latin-900.svg#Raleway" ) format( "svg" );
+}
