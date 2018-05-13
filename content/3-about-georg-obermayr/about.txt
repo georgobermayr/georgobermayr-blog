@@ -316,7 +316,7 @@ Profiles:
 
 -
   name: E-Mail
-  link: mailto:info@georgobermayr.de
+  link: mailto:info@georgobermayr.com
 -
   name: Twitter
   link: https://twitter.com/georgobermayr

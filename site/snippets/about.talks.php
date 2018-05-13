@@ -43,7 +43,7 @@
     <li>
       <strong>And many more …</strong>
       <br>
-      <strong><a href="mailto:info@georgobermayr.de" class="about__ctaLink">Interested in hiring me for a talk? Contact me!</a></strong>
+      <strong><a href="mailto:info@georgobermayr.com" class="about__ctaLink">Interested in hiring me for a talk? Contact me!</a></strong>
     </li>
 
   </ul>

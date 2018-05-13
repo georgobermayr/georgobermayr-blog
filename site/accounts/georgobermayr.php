@@ -3,7 +3,7 @@
 username: georgobermayr
 password: >
   $2a$10$pF5DQFqzPDOS5DwwvUeWMOANkkTUdg0CU8bLKqSS0bqrCDcPSOy5i
-email: g.obermayr@adverma.de
+email: info@georgobermayr.com
 language: en
 role: admin
 history:
