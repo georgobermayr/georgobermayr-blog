@@ -51,7 +51,7 @@
   }
 
   & > p {
-    font-size: $font-size-normal * 0.8;
+    font-size: $font-size-normal * 0.85;
 
     @include breakpoint($breakpoint-md) {
       font-size: unset;

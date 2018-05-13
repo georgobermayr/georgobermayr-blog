@@ -23,6 +23,7 @@
     & > h1 {
       color: $black;
       font-size: $font-size-large * 0.5;
+      margin-bottom: 1rem;
 
       @include breakpoint($breakpoint-md) {
         font-size: $font-size-large;
@@ -34,7 +35,7 @@
       font-family: $font-family-sans;
       font-weight: $font-weight-bold;
       line-height: 1.2;
-      font-size: $font-size-normal * 0.8;
+      font-size: $font-size-normal * 0.85;
 
       @include breakpoint($breakpoint-md) {
         font-size: unset;
