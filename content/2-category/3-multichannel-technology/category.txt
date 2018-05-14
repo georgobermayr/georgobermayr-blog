@@ -10,11 +10,11 @@ Teaserheadline: Is Publishing just an API?
 
 ----
 
-Teasertext: Media production used to be the craft to weld together content and design. Not anymore. We need to think as publishing as as service, designed for communication.
+Teasertext: Media production used to be the craft to weld together content and design. Not anymore. We need to think of publishing as as service, designed for communication.
 
 ----
 
-Infoseo: 
+Infoseo:
 
 ----
 
