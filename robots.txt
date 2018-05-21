@@ -1,0 +1,3 @@
+User-Agent: *
+Noindex: https://georgobermayr.com/imprint
+Noindex: https://georgobermayr.com/privacy
