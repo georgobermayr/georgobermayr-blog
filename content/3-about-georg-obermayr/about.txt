@@ -14,6 +14,8 @@ And it is this daily business work that helps me identifying the trends and emer
 
 I’m living at the intersection of design, content, technology and marketing. How hypes can be moved into practical use is what drives me every day.
 
+If you want to know more about me, what I do and what I don’t do, Heike Burch recorded a nice interview (in German) with me for her highly recommended Publishing Podcast: (link: https://www.publishing-podcast.ch/im-gespraech-mit-georg-obermayr text: Tune in! target: _blank)
+
 ----
 
 Speaking: 
@@ -238,10 +240,12 @@ Speaking:
 - 
   name: Tools for agile teamwork
   event: ""
-  year: "2018"
-  client: Typographic Society Munich (TGM)
-  picture: ""
-  featured: "0"
+  year: "2019"
+  client: >
+    Typographic Society Munich (TGM) and
+    publishingNETWORK
+  picture: agile_werkzeuge_01.jpg
+  featured: "1"
 - 
   name: >
     Untitled talk about the future of media

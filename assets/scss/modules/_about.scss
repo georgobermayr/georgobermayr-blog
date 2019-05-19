@@ -57,6 +57,14 @@
       font-size: unset;
     }
   }
+
+  & a {
+    text-decoration: underline;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
 }
 
 .about__contacts {
