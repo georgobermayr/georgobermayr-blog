@@ -1,5 +1,5 @@
 <ul class="menu">
-  <?php foreach ($site->find('category')->children()->visible() as $category) : ?>
+  <?php foreach ($site->find('category')->children()->listed() as $category) : ?>
 
     <li <?php e($category->isOpen(), ' class="menuitem--active"') ?>>
       <a href="<?php echo $category->url() ?>">

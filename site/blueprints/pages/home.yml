@@ -1,0 +1,19 @@
+title: Homepage
+options:
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
+pages: false
+files: true
+fields:
+  intro:
+    label: Intro text
+    type: textarea
+    required: true
+    buttons: false
+
+  # SEO
+  seo:
+    extends: fields/seo

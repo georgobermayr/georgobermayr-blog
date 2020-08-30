@@ -3,7 +3,7 @@
 class CategoryPage extends Page {
 
   public function articles($category) {
-    return $this->site()->find('articles')->children()->filterBy('category', $category)->visible()->sortBy('date', 'desc');
+    return $this->site()->find('articles')->children()->filterBy('category', $category)->listed()->sortBy('date', 'desc');
   }
 
   public function articlesTeaser($category) {

@@ -1,0 +1,31 @@
+title: Category
+options:
+  preview: true
+  status: true
+  template: false
+  url: true
+  delete: false
+pages: false
+files: true
+fields:
+
+  description:
+    label: Description
+    type: textarea
+    buttons: false
+    required: true
+
+  teaserheadline:
+    label: Headline for teaser
+    type: text
+    required: true
+
+  teasertext:
+    label: Text for teaser
+    type: textarea
+    buttons: false
+    required: true
+
+  # SEO
+  seo:
+    extends: fields/seo

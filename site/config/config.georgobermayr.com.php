@@ -1,3 +1,5 @@
 <?php
 
-c::set('ssl', true);
+return [
+    'debug'  => false,
+];

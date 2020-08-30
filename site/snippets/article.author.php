@@ -1,4 +1,4 @@
-<?php $georg = $site->user('georgobermayr') ?>
+<?php $georg = $kirby->user('info@georgobermayr.com') ?>
 
 <article class="article__author">
   <h3>

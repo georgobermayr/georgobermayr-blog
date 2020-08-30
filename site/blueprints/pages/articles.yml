@@ -1,0 +1,11 @@
+title: Articles
+options:
+  preview: true
+  status: false
+  template: false
+  url: true
+  delete: false
+pages: true
+  template: article
+files: false
+preset: pages

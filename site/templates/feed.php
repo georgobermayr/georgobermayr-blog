@@ -1,6 +1,6 @@
 <?php
 
-echo page('articles')->children()->visible()->flip()->limit(10)->feed(array(
+echo page('articles')->children()->listed()->flip()->limit(10)->feed(array(
   'title'       => $page->title(),
   'description' => $page->description()
 ));

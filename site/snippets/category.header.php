@@ -11,7 +11,7 @@
   </div>
 
   <div class="category__header_iconWrapper">
-    <?php echo $page->file('icon.svg')->content() ?>
+    <?php echo svg($page->file('icon.svg')) ?>
   </div>
 
 </div>
