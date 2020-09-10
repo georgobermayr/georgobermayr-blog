@@ -2,7 +2,7 @@ Title: Headless CMS with a second head
 
 ----
 
-Category: content-architecture
+Category: multichannel-technology
 
 ----
 
