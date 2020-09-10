@@ -8,14 +8,12 @@ fields:
     label: SEO Title
     type: text
     required: true
-    validate:
-      minLength: 10
-      maxLength: 60
+    minlength: 10
+    maxlength: 60
 
   seodescription:
     label: SEO Description
     type: textarea
     buttons: false
-    validate:
-      minLength: 40
-      maxLength: 160
+    minlength: 40
+    maxlength: 160

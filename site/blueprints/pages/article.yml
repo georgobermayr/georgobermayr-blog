@@ -45,9 +45,8 @@ fields:
     type: textarea
     buttons: false
     required: true
-    validate:
-      minLength: 40
-      maxLength: 250
+    minlength: 40
+    maxlength: 250
 
   text:
     label: Text
