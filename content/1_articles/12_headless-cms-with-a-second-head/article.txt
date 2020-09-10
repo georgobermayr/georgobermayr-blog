@@ -1,0 +1,57 @@
+Title: Headless CMS with a second head
+
+----
+
+Category: content-architecture
+
+----
+
+Tags: cms, content management, headless, decoupled, content modells, multichannel, content strategegy
+
+----
+
+Essential: false
+
+----
+
+Date: 2020-09-10
+
+----
+
+Excerpt: Another approach to decoupled content management: When algorithms are not enough to build a web page, curation possibilities often fall short with headless architectures. What would be a better approach?
+
+----
+
+Text:
+
+Before I moved into digital media development, I worked in high-end print production for some time and also gained some perspectives on solution development with print editorial systems. In some ways this background is still informing my way of doing projects. I always try to incorporate the broader marketing aspects into my projects and not just think about the current channel at hand. When I moved into digital media, I quickly started with decoupled and headless architectures for content management, separating content and representation and doing responsive web design the “right way”. 
+
+I started with Contentful (today one of the standard headless content management systems in the market) and did the output layer with a static site generator. Good stuff, but not ideal in my opinion. For the next projects I tried to reassess what’s wrong with headless and addressed these issues with a different architecture. 
+
+## So, what is wrong with headless?
+In my opinion there is too much pressure on the output layer. Building a good backend is easy – technologically speaking. Of course, you can invest a lot of time in customizing the backend of a headless CMS, and it makes a lot of sense to do that. But at the end it boils down to having a good concept and getting the content models, semantics and governance processes right. (Easier said than done, that’s for sure!)
+
+But the output layer is different, and often it gets messy: Since there are no backend or editorial configuration possibilities in static site applications, everything needs to be solved by algorithms. This might work for some page types that are good to comprehend and where you can formulate the rules that build the design in a good way. Page types that are curated though are a different beast. For instance, the homepage needs to be curated by hand most of the time. An algorithm is not working here, this needs to be solved on the content side. There are a lot of these examples in all levels of a website project: Be it the big picture where an entire page needs to be curated by hand or on an atomic level where enhanced control about image cropping and manipulation needs to be provided to avoid design bugs. And, of course, everything in between. 
+
+The homepage example sounds easy at first: Just add a homepage content model to the backend system and you are good. But with that you quickly open the door for even more web specific information in the backend: SEO fields for instance or legal texts like privacy policies. So quickly the backend is polluted with fields, options and even entire content models that are only needed for the website and nothing else. You might call me a dreamer, but in my opinion, this undermines the very basic idea of headless: The separation of content and its representation.
+
+## Okay, what is a better approach?
+The idea that arrived from these issues, is quickly explained: Why not have another CMS for the frontend? So instead of having just the headless CMS for the backend, add another CMS that controls the output layer. This could be another system than the headless backend CMS or even the same CMS than the backend. Of course, it needs to be a system that is capable of handling the output layer, so no more Contentful here. Systems like Drupal, Kirby, Statamic or even WordPress are better suited for that. 
+
+I think I’m a bit known for having done a lot of projects with Kirby, so let’s use that as an example. If you like it once, why not like it twice? So, you have a backend Kirby system, that is serving as decoupled CMS and a frontend Kirby system that drives the website and works with the data form the decoupled backend. In a nutshell you have a backend backend and a frontend backend 😳.
+
+This architecture immediately solves a lot of problems: We can keep the backend clean of media-specific fields or content models. The backend is pure, it is not polluted by things needed only by a specific channel. The content can easily be reused by other applications. On the other hand, if media specific curation is needed, you can do it in the frontend. There is also some content that only resides in the frontend systems, like all SEO fields. These fields are just an extra layer that we add to the basic backend content when needed in the web context. All of that is very easy and it reduces a lot of complexity in terms of content modelling and architecture. It is a truly best-of-breed approach: We need a curated way of dealing with content in the web, but we also need a media independent way of storing content. Separating this use cases into two content management systems sounds very straightforward in my opinion. 
+
+For me this is not just theory, I’ve done it with two large scale projects, and it works like a charm! Depending on the systems used, there needs to be some kind of communication to be established between the two systems. It is a good idea to cache the content from the backend system into the frontend system to avoid performance bottlenecks in the live website. But once this is set up, all content decisions feel very natural. 
+
+This even goes full circle for print production: If the decoupled CMS should for instance also drive a print output channel, algorithms alone are again mostly not enough to produce the final design. This only works for very formalized collateral like some breed of data sheets. Usually some human intervention is needed for the final design touches here as well. In the future (or present?) where we might have HTML to PDF workflows, this would mean adding another CMS that controls the print output layer. The same architecture, just for a different channel. 
+
+To sum it up: The backend is media neutral and used to *create* content. The frontend on the other hand is media specific and used to *curate* content. I think the distinction between creating content and curating it is very important. Every media channel needs to be curated. With a double-CMS-architecture we open the door for easy human curation by non-developers in a decoupled system setup. What do you think? Drop me a message with your thoughts about this architecture!
+
+----
+
+Seotitle: A new approach to decoupled content management
+
+----
+
+Seodescription: When algorithms are not enough to build a web page, curation possibilities often fall short with headless architectures. A dedicated curation CMS helps.
