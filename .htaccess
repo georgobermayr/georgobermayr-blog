@@ -2,6 +2,8 @@
 # Kirby .htaccess
 # revision 2020-06-15
 
+Redirect 301 /about-georg-obermayr https://georgobermayr.com/about-georg-obermayr
+
 # rewrite rules
 <IfModule mod_rewrite.c>
 
