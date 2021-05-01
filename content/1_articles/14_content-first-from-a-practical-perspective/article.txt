@@ -1,0 +1,39 @@
+Title: Content First from a practical perspective
+
+----
+
+Category: multichannel-technology
+
+----
+
+Tags: content-first, multichannel, content management, kirby, cloud, api, publishing
+
+----
+
+Essential: false
+
+----
+
+Date: 2021-05-01
+
+----
+
+Excerpt: Everyone talks about Content First. More and more companies realize that a multichannel strategy for their content is an important asset. But how does it actually work? Watch my (German) talk.
+
+----
+
+Text:
+
+Everyone talks about Content First. More and more companies realize that a multichannel strategy for their content is an important asset. But how does it actually work? Watch my (German) talk here:
+
+(video: https://www.youtube.com/watch?v=jeDOGvVQWFM)
+
+In the live stream conducted by the Swiss publishingNETWORK I talk with Haeme Ulrich and René Theiler about my recent work for the corporate website of the outdoor footwear brand LOWA. We discuss the general strategy and go deep on how the architecture works with a lot of examples on content strategy, media & editorial workflows. We talk about the importance of best of breed architecture, the integration of print and other technical aspects. Of course we also cover a lot of ground in regards to project management, agile collaboration and why working in iterations is so important for digital projects. Tune in!
+
+----
+
+Seotitle: Content First Publishing from a practical perspective
+
+----
+
+Seodescription: More and more companies realize that a multichannel strategy for their content is an important asset. But how does it actually work in a real project?
