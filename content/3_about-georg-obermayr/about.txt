@@ -305,6 +305,15 @@ Speaking:
   client: Typographic Society Munich (TGM)
   picture: ""
   featured: "0"
+-
+  name: >
+    Content First from a practical
+    standpoint
+  event: ""
+  year: "2021"
+  client: publishingNETWORK
+  picture: content-first.jpg
+  featured: "1"
 
 ----
 
