@@ -277,24 +277,22 @@ Speaking:
 -
   name: Design patterns of responsive webdesign
   event: ""
-  year: "2019"
+  year: "2020"
+  client: Typographic Society Munich (TGM)
+  picture: ""
+  featured: "0"
+-
+  name: Responsive meets Multichannel
+  event: ""
+  year: "2020"
   client: Typographic Society Munich (TGM)
   picture: ""
   featured: "0"
 -
   name: Digital typography
   event: Typography in-depth course
-  year: "2012"
-  client: Gorbach Seminare
-  picture: ""
-  featured: "0"
--
-  name: >
-    Ingredients for successful responsive
-    webdesign
-  event: ""
   year: "2020"
-  client: Typographic Society Munich (TGM)
+  client: Gorbach Seminare
   picture: ""
   featured: "0"
 -
@@ -314,6 +312,25 @@ Speaking:
   client: publishingNETWORK
   picture: content-first.jpg
   featured: "1"
+-
+  name: >
+    Kirby in the Wild: Content First
+    at LOWA
+  event: ""
+  year: "2021"
+  client: Stay Curious – beyond tellerrand Café
+  picture: stay-curious.jpg
+  featured: "1"
+-
+  name: >
+    Ingredients for successful responsive
+    webdesign
+  event: ""
+  year: "2021"
+  client: Typographic Society Munich (TGM)
+  picture: ""
+  featured: "0"
+
 
 ----
 

@@ -18,17 +18,21 @@ Date: 2021-05-01
 
 ----
 
-Excerpt: Everyone talks about Content First. More and more companies realize that a multichannel strategy for their content is an important asset. But how does it actually work? Watch my (German) talk.
+Excerpt: Everyone talks about Content First. More and more companies realize that a multichannel strategy for their content is an important asset. But how does it actually work? Watch my talk.
 
 ----
 
 Text:
 
-Everyone talks about Content First. More and more companies realize that a multichannel strategy for their content is an important asset. But how does it actually work? Watch my (German) talk here:
+Everyone talks about Content First. More and more companies realize that a multichannel strategy for their content is an important asset. But how does it actually work? Watch my German talk here:
 
 (video: https://www.youtube.com/watch?v=jeDOGvVQWFM)
 
-In the live stream conducted by the Swiss publishingNETWORK I talk with Haeme Ulrich and René Theiler about my recent work for the corporate website of the outdoor footwear brand LOWA. We discuss the general strategy and go deep on how the architecture works with a lot of examples on content strategy, media & editorial workflows. We talk about the importance of best of breed architecture, the integration of print and other technical aspects. Of course we also cover a lot of ground in regards to project management, agile collaboration and why working in iterations is so important for digital projects. Tune in!
+In the live stream conducted by the Swiss publishingNETWORK I talk with Haeme Ulrich and René Theiler about my recent work for the corporate website of the outdoor footwear brand LOWA. We discuss the general strategy and go deep on how the architecture works with a lot of examples on content strategy, media & editorial workflows. We talk about the importance of best of breed architecture, the integration of print and other technical aspects. Of course we also cover a lot of ground in regards to project management, agile collaboration and why working in iterations is so important for digital projects.
+
+After the great success of the German edition, I was very happy to also talk about the project in English. I was invited to Stay Curious – beyond tellerrand Café and had a great conversation with Marc Thiele and Bastian Allgeier. We again talked about the project, our architectural choices and dived a bit deeper into the details of the implementation. Watch the English talk here: 
+
+(video: https://www.youtube.com/watch?v=-zrgqExDS68)
 
 ----
 
