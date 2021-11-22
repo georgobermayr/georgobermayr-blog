@@ -20,7 +20,7 @@
   // Leaving the book page as link instead of astorytelling page for now
   $bookPage = $site->find('book-agile-publishing') ?>
   <li <?php e($bookPage->isOpen(), ' class="menuitem--active"') ?>>
-    <a href="http://www.agile-publishing.de/" target="_blank" rel="noopener">
+    <a href="https://www.amazon.de/Agiles-Publishing-Silo-Denken-beenden-Publizierens/dp/3941951866" target="_blank" rel="noopener">
       <?php echo $bookPage->title() ?>
     </a>
   </li>

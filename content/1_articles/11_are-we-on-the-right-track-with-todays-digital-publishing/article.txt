@@ -142,7 +142,7 @@ But what’s most important for me: in agile processes an interdisciplinary way 
 
 Again: This is different to the “enrichment” way of thinking. Instead of pasting interactivity on top of an already given content, interdisciplinary collaboration leads to products in which the interaction is an integral part of the content.
 
-Last year I had the opportunity to co-author a book about how to apply agile processes into publishing: “Agile Publishing” ((link: http://www.agile-publishing.de text: German edition here)). So for me this is really something we all should put into practice.
+Last year I had the opportunity to co-author a book about how to apply agile processes into publishing: “Agile Publishing” ((link: https://www.amazon.de/Agiles-Publishing-Silo-Denken-beenden-Publizierens/dp/3941951866 text: German edition here)). So for me this is really something we all should put into practice.
 
 ## Never finish
 
