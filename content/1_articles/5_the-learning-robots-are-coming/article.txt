@@ -97,3 +97,7 @@ Seotitle: What Machine Learning means to publishing & media production
 ----
 
 Seodescription: Media production is about to be disrupted by Machine Learning and Artificial Intelligence. What does this mean for creativity, image retouching and typography?
+
+----
+
+Uuid: zw5ppyw4sbjk51eg

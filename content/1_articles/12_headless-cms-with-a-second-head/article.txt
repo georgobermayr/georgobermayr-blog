@@ -55,3 +55,7 @@ Seotitle: A new approach to decoupled content management
 ----
 
 Seodescription: When algorithms are not enough to build a web page, curation possibilities often fall short with headless architectures. A dedicated curation CMS helps.
+
+----
+
+Uuid: um7hgj4s4ocr5xqw

@@ -18,7 +18,7 @@ Date: 2014-06-26
 
 ----
 
-Infocontent:
+Infocontent: 
 
 ----
 
@@ -175,7 +175,7 @@ So I don’t think it’s the tools to blame. They fulfilled the demand driven b
 
 ----
 
-Infoseo:
+Infoseo: 
 
 ----
 
@@ -184,3 +184,7 @@ Seotitle: Are we on the right track with today’s digital publishing?
 ----
 
 Seodescription: Is Digital Publishing really digital? Or are we again thinking print, even when we design for digital media? Some thoughts on what “digital” really means.
+
+----
+
+Uuid: t3vxscwuwd9kscij

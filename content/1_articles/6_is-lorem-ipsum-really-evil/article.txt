@@ -14,7 +14,7 @@ Excerpt: One of the common things people do wrong in prototyping but also in gra
 
 ----
 
-Text: 
+Text:
 
 One of the common things people do wrong in prototyping but also in graphic design is the use of dummy text. With dummy text, you can picture a world where everything is ideal, a world that is driven entirely by its visual appearance. Does the text make sense here? Does it convey any message? Is there any use for the people that interact with it? The dummy text, and therefore the prototype does not tell. But of what use is a prototype that displays, say an image carousel, with lorem ipsum headlines? Right, nothing. At least the prototype is not much of a help when forming design decisions.
 
@@ -49,3 +49,7 @@ Essential: 0
 ----
 
 Tags: ux,prototyping,dummy text,writing,content strategy,user experience,web design,agile,scrum,rapid prototyping,iteration,design
+
+----
+
+Uuid: c8olffr0zmpenudj

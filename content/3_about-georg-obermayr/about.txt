@@ -331,7 +331,6 @@ Speaking:
   picture: ""
   featured: "0"
 
-
 ----
 
 Publications:
@@ -463,3 +462,7 @@ Seotitle: Speaker, author and practitioner in media production
 ----
 
 Seodescription: Georg Obermayr speaks and writes about content infrastructure, creating digital publishing with agile processes and what machine learning means for this.
+
+----
+
+Uuid: pgjunczrqhn19z9x

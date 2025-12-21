@@ -14,7 +14,7 @@ Teasertext: Media production used to be the craft to weld together content and d
 
 ----
 
-Infoseo:
+Infoseo: 
 
 ----
 
@@ -23,3 +23,7 @@ Seotitle: How APIs help Publishing to go Multichannel.
 ----
 
 Seodescription: Media production used to be the craft to weld together content and design. Today, we need to think as publishing as as service, designed for communication.
+
+----
+
+Uuid: emmiagff7ltwa2be

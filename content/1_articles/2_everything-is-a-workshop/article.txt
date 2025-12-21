@@ -26,7 +26,7 @@ Excerpt: Workshops are in my opinion the single most important thing to master n
 
 ----
 
-Text: 
+Text:
 
 At first I didn’t realize it: Over the years I’ve become a workshop expert. I learned a lot about moderating a workshop, about asking the right questions, about Post-its and flip charts, about listening and about finding ideas in a group. I didn’t plan this, it just happened on my journey of understanding “how to do things” in digital media. What I understand now is that workshops are in my opinion the single most important thing to master not just the digital transformation and adopt agile processes, but also to change the supplier-client relationship. Why?
 
@@ -53,3 +53,7 @@ Seotitle: In agency-client relationship, everything is a workshop
 ----
 
 Seodescription: Workshops are the most important thing to master digital transformation and adopt agile processes, but also to change the agency-client relationship. Why?
+
+----
+
+Uuid: 2pkv65o8rtrozizl

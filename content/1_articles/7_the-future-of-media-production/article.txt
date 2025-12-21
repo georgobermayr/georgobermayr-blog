@@ -18,7 +18,7 @@ Date: 2016-08-08
 
 ----
 
-Infocontent:
+Infocontent: 
 
 ----
 
@@ -102,7 +102,7 @@ Media production of the future will be more of an open interface, an API, than a
 
 ----
 
-Infoseo:
+Infoseo: 
 
 ----
 
@@ -111,3 +111,7 @@ Seotitle: The future of media production
 ----
 
 Seodescription: Databases & publishing systems are everything in media production and the future is “web first”? Sorry, wrong! Four theses about the future of media production.
+
+----
+
+Uuid: pjoeefjudeyadb4h

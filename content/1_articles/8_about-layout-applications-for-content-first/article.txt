@@ -26,7 +26,7 @@ Excerpt: An article of my college Haeme Ulrich about HTML authoring tools caught
 
 ----
 
-Text: 
+Text:
 
 Today an (link: http://www.publishingblog.ch/haemes-senf-html-authoring-das-was-nach-dem-layoutprogram-kommt/ text: article) of my Swiss college Haeme Ulrich about HTML authoring tools caught my attention: Haeme proclaims that in a content first world HTML based layout applications (like Woodwing Inception or TruAuthor from MEI) are the way to go. While I agree with some of his considerations I don’t agree with the conclusion. I agree with the approach to content first and the major role HTML plays in todays publishing landscape. In fact, content first played a big role in our “Agile Publishing” book and responsive HTML is the main reason why I abandoned all digital publishing solutions (including the ones producing HTML output) in the last years. 
 
@@ -55,3 +55,7 @@ Seotitle: About layout applications for content first
 ----
 
 Seodescription: An article of Haeme Ulrich about HTML authoring caught my attention: He says that in content first HTML based layout applications are the way to go. Really?
+
+----
+
+Uuid: fazhcmicrtpda1a7

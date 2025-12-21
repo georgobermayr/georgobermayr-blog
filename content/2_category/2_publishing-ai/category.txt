@@ -19,3 +19,7 @@ Seotitle: Marketing and creativity in the wake of machine learning
 ----
 
 Seodescription: Explorations in how artificial intelligence and machine learning disrupt creativity, marketing and media production.
+
+----
+
+Uuid: xr8ypa23tszor1s9

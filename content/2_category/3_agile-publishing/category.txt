@@ -23,3 +23,7 @@ Seotitle: Agile teamwork as key to creating digital products
 ----
 
 Seodescription: Digital media production needs new ways of working together, organizing teams and building company cultures. But agile and scrum are not religions.
+
+----
+
+Uuid: vgomchrudyd8ru2y

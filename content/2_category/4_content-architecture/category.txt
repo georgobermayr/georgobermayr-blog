@@ -23,3 +23,7 @@ Seotitle: Good Content Architecture as driving force for digital media
 ----
 
 Seodescription: For todays digital experiences to work, content needs to be connect, structured and smart. A content infrastructure unlocks that.
+
+----
+
+Uuid: x81ylmgct7xyohaj

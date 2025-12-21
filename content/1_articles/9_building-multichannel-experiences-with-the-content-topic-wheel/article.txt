@@ -26,7 +26,7 @@ Excerpt: The Content Topic Wheel provides a framework for developing ideas based
 
 ----
 
-Text: 
+Text:
 
 In marketing, developing a topic across different media channels has become the standard. Starting a topic in a newsletter, linking to Facebook, putting related videos an YouTube, integrating users with surveys or user generated content, linking from print collateral to the web site and so on. In the past years building these multichannel experiences has become a craft on its own, resulting in often complex architectures of linking back and forth and funneling the user flow. The toolsets of Content Strategy and User Experience Design help a lot here in shaping true user centered multichannel experiences.
 
@@ -65,3 +65,7 @@ Seotitle: Multichannel experiences with the “Content Topic Wheel”
 ----
 
 Seodescription: The Content Topic Wheel provides a framework for developing ideas based on a Content Strategy and putting them together in a multichannel architecture.
+
+----
+
+Uuid: yx55rheenu6qzr57

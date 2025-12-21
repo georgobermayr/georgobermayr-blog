@@ -26,7 +26,7 @@ Excerpt: Many people use Agile as a shield. “We can’t do that because it is 
 
 ----
 
-Text: 
+Text:
 
 People love rules. Even when we encounter something new. So, when we first meet new methods and frameworks like “Agile”, “Scrum” or “Design Thinking” we often see a set of rules that can guide us during adoption. That’s fine and very human: How else would we learn something new than by sticking to the guidelines? 
 
@@ -62,3 +62,7 @@ Seotitle: Don't use Agile as a shield, use it as a smart toolkit
 ----
 
 Seodescription: Many people use Agile as a shield. This is at least as dangerous as not adopting Agile at all. Agile is toolkit that should help in your daily projects. How?
+
+----
+
+Uuid: ubw6mjtvqol3egqd

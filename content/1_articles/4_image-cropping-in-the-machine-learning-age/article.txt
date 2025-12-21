@@ -26,7 +26,7 @@ Excerpt: Image cropping has increasingly become a pain in the ass. With content 
 
 ----
 
-Text: 
+Text:
 
 Image cropping has increasingly become a pain in the ass. With content flowing more freely in the web and on different brand platforms like apps or social media more and more crops of the same image are needed. Even if you just think of a website you often need half a dozen or more different crop renditions of an image. Currently there are two technologies to crop images automatically:
 
@@ -53,3 +53,7 @@ Seotitle: Image cropping in the machine learning age
 ----
 
 Seodescription: Image cropping is a pain in the ass. Learn about machine learning approaches, pioneered by Twitter, to simply the process while massively increasing quality.
+
+----
+
+Uuid: klgpu04pghlm2y7s

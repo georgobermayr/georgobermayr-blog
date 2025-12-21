@@ -18,7 +18,7 @@ Date: 2014-06-01
 
 ----
 
-Infocontent:
+Infocontent: 
 
 ----
 
@@ -60,7 +60,7 @@ What experiences with Publishing War Rooms do you have?
 
 ----
 
-Infoseo:
+Infoseo: 
 
 ----
 
@@ -69,3 +69,7 @@ Seotitle: Setting the stage for Agile Publishing with a War Room
 ----
 
 Seodescription: How to set up a War Room for Agile Publishing quickly by using the things that are already there. This will boost collaboration between different departments.
+
+----
+
+Uuid: ozysqnemnzinfsxy

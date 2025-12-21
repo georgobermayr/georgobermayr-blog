@@ -11,3 +11,7 @@ Seotitle: Writings about publishing, media production, content & agile
 ----
 
 Seodescription: Georg Obermayr covers content infrastructure in a multichannel world, creating digital publishing with agile processes and what machine learning means for this.
+
+----
+
+Uuid: 6ae50pwxihl7dmgn

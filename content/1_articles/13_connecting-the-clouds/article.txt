@@ -114,3 +114,7 @@ Seotitle: APIs and mircorservices for smarter publishing worklfows
 ----
 
 Seodescription: APIs, webhooks and cloud URLs form a new “operating system” of publishing and media production. Find examples and best practice workflows in this article.
+
+----
+
+Uuid: qwci6d2a9qydezk6

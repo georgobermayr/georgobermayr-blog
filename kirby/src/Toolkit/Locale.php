@@ -21,8 +21,12 @@ class Locale
 	 * List of all locale constants supported by PHP
 	 */
 	public const LOCALE_CONSTANTS = [
-		'LC_COLLATE', 'LC_CTYPE', 'LC_MONETARY',
-		'LC_NUMERIC', 'LC_TIME', 'LC_MESSAGES'
+		'LC_COLLATE',
+		'LC_CTYPE',
+		'LC_MONETARY',
+		'LC_NUMERIC',
+		'LC_TIME',
+		'LC_MESSAGES'
 	];
 
 	/**
@@ -60,7 +64,9 @@ class Locale
 		$normalizedCategory = static::normalizeConstant($category);
 
 		if (is_int($normalizedCategory) !== true) {
-			throw new InvalidArgumentException('Invalid locale category "' . $category . '"');
+			throw new InvalidArgumentException(
+				message: 'Invalid locale category "' . $category . '"'
+			);
 		}
 
 		if ($normalizedCategory !== LC_ALL) {
@@ -68,7 +74,9 @@ class Locale
 			$locale = setlocale($normalizedCategory, 0);
 
 			if (is_string($locale) !== true) {
-				throw new Exception('Could not determine locale for category "' . $category . '"');
+				throw new Exception(
+					message: 'Could not determine locale for category "' . $category . '"'
+				);
 			}
 
 			return $locale;
@@ -76,7 +84,7 @@ class Locale
 
 		// no specific `$category` was passed, make a list of all locales
 		$array = [];
-		foreach (static::supportedConstants() as $constant => $name) {
+		foreach (array_keys(static::supportedConstants()) as $constant) {
 			// `setlocale(..., 0)` actually *gets* the locale
 			$array[$constant] = setlocale($constant, '0');
 		}
@@ -103,6 +111,7 @@ class Locale
 		if (is_array($locale) === true) {
 			// replace string constant keys with the constant values
 			$convertedLocale = [];
+
 			foreach ($locale as $key => $value) {
 				$convertedLocale[static::normalizeConstant($key)] = $value;
 			}
@@ -114,12 +123,15 @@ class Locale
 			return [LC_ALL => $locale];
 		}
 
-		throw new InvalidArgumentException('Locale must be string or array');
+		throw new InvalidArgumentException(
+			message: 'Locale must be string or array'
+		);
 	}
 
 	/**
 	 * Sets the PHP locale with a locale string or
 	 * an array with constant or string keys
+	 * @psalm-suppress UnusedFunctionCall
 	 */
 	public static function set(array|string $locale): void
 	{
@@ -143,8 +155,9 @@ class Locale
 	 * Tries to convert an `LC_*` constant name
 	 * to its constant value
 	 */
-	protected static function normalizeConstant(int|string $constant): int|string
-	{
+	protected static function normalizeConstant(
+		int|string $constant
+	): int|string {
 		if (
 			is_string($constant) === true &&
 			Str::startsWith($constant, 'LC_') === true
@@ -165,11 +178,13 @@ class Locale
 	protected static function supportedConstants(bool $withAll = false): array
 	{
 		$names = static::LOCALE_CONSTANTS;
+
 		if ($withAll === true) {
 			array_unshift($names, 'LC_ALL');
 		}
 
 		$constants = [];
+
 		foreach ($names as $name) {
 			if (defined($name) === true) {
 				$constants[constant($name)] = $name;
